@@ -1,0 +1,43 @@
+{
+    "bot": {
+        "token": "PUT_YOUR_BOT_TOKEN_HERE",
+        "id": "PUT_YOUR_BOT_ID_HERE",
+        "data_file": "./data/bot_data.pickle"
+    },
+    "telegram_api": {
+        "phone_number": "PUT_YOUR_PHONENUMBER_HERE",
+        "telegram_api_id": PUT_YOUR_TELEGRAM_API_ID_HERE,
+        "telegram_api_hash": "PUT_YOUR_TELEGRAM_API_HASH_HERE",
+        "path_to_group_image": "./data/images/group_logo.jpg"
+    },
+    "db_connection": {
+        "user": "PUT_YOUR_DB_CONNECTION_USER_HERE",
+        "password": "PUT_YOUR_DB_CONNECTION_PASSWORD_HERE",
+        "host": "PUT_YOUR_DB_CONNECTION_HOST_HERE",
+        "port": "PUT_YOUR_DB_CONNECTION_PORT_HERE",
+        "database": "PUT_YOUR_DATABASES_NAME_HERE",
+        "options": "--search_path={}"
+    },
+    "debug": {
+        "is_active": false
+    },
+    "data_files": {
+        "sentence_correction_task": "./data/tasks/sentence_correction/task_data.csv",
+        "vocabulary_guessing_task": "./data/tasks/vocabulary_description/task_data.csv",
+        "discussion_task": "./data/tasks/discussion/task_data.csv",
+        "proficiency_info": "./data/proficiency/proficiency_info.csv"
+    },
+    "phrase_files": {
+        "sentence_correction_task": "./data/tasks/sentence_correction/phrases.json",
+        "vocabulary_guessing_task": "./data/tasks/vocabulary_description/phrases.json",
+        "discussion_task": "./data/tasks/discussion/phrases.json",
+        "listening_task": "./data/tasks/listening/phrases.json",
+        "common": "./data/tasks/common_phrases.json",
+        "room_manager_phrases": "./data/phrases/task_manager.json",
+        "story_scenario": "scenario_1"
+    },
+    "achievement_file": "./data/achievements/achievement_info.json",
+    "update_database_schema": true,
+    "delete_data_and_recreate_database_schema": false,
+    "database_schema": "prod"
+}

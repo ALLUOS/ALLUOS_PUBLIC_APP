@@ -1,0 +1,132 @@
+{
+    "Streaks": [
+        {
+            "name": "Cadet",
+            "completion_text": "Played two days in a row.",
+            "progress_text": "Played {} / 2 days in a row in order to get promoted to cadet.",
+            "achievement_emoji": ":star:",
+            "threshold": 2
+        },
+        {
+            "name": "Commodore",
+            "completion_text": "Played three days in a row.",
+            "progress_text": "Played {} / 3 days in a row in order to get promoted to commodore.",
+            "achievement_emoji": ":star::star:",
+            "threshold": 3
+        },
+        {
+            "name": "Junior Lieutenant",
+            "completion_text": "Played five days in a row.",
+            "progress_text": "Played {} / 5 days in a row in order to get promoted to junior lieutenant.",
+            "achievement_emoji": ":star::star::star:",
+            "threshold": 5
+        },
+        {
+            "name": "Lieutenant",
+            "completion_text": "Played seven days in a row.",
+            "progress_text": "Played {} / 7 days in a row in order to get promoted to lieutenant.",
+            "achievement_emoji": ":zap:",
+            "threshold": 7
+        },
+        {
+            "name": "Lieutenant-Commander",
+            "completion_text": "Played fourteen days in a row.",
+            "progress_text": "Played {} / 14 days in a row in order to get promoted to lieutenant-commander.",
+            "achievement_emoji": ":key:",
+            "threshold": 14
+        },
+        {
+            "name": "Commander",
+            "completion_text": "Played twenty-eight days in a row.",
+            "progress_text": "Played {} / 28 days in a row in order to get promoted to commander.",
+            "achievement_emoji": ":rocket:",
+            "threshold": 28
+        },
+        {
+            "name": "Captain",
+            "completion_text": "Played thirty-five days in a row.",
+            "progress_text": "Played {} / 35 days in a row in order to get promoted to captain.",
+            "achievement_emoji": ":anchor:",
+            "threshold": 35
+        },
+        {
+            "name": "Vice Admiral",
+            "completion_text": "Played forty-five days in a row.",
+            "progress_text": "Played {} / 45 days in a row in order to get promoted to vice admiral.",
+            "achievement_emoji": ":trident:",
+            "threshold": 45
+        },
+        {
+            "name": "Admiral",
+            "completion_text": "Played sixty-six days in a row.",
+            "progress_text": "Played {} / 66 days in a row in order to get promoted to admiral.",
+            "achievement_emoji": ":ship:",
+            "threshold": 66
+        },
+        {
+            "name": "Fleet Admiral",
+            "completion_text": "Played one-hundred days in a row.",
+            "progress_text": "Played {} / 100 days in a row in order to get promoted to fleet admiral.",
+            "achievement_emoji": ":trophy:",
+            "threshold": 100
+        }
+    ],
+    "Codewords": [
+        {
+            "name": "Lock",
+            "completion_text": "Collected one piece of a codeword.",
+            "progress_text": "Collected {} / 1 codeword piece.",
+            "achievement_emoji": ":lock:",
+            "threshold": 1
+        },
+        {
+            "name": "Password",
+            "completion_text": "Collected four pieces of a codeword.",
+            "progress_text": "Collected {} / 4 codeword pieces.",
+            "achievement_emoji": ":lock_with_ink_pen:",
+            "threshold": 4
+        },
+        {
+            "name": "Key",
+            "completion_text": "Collected eight pieces of a codeword.",
+            "progress_text": "Collected {} / 8 codeword pieces.",
+            "achievement_emoji": ":key:",
+            "threshold": 8
+        },
+        {
+            "name": "Escape",
+            "completion_text": "Collected twelve pieces of a codeword.",
+            "progress_text": "Collected {} / 12 codeword pieces.",
+            "achievement_emoji": ":door:",
+            "threshold": 12
+        },
+        {
+            "name": "Indiana Jones",
+            "completion_text": "Collected twenty pieces of a codeword.",
+            "progress_text": "Collected {} / 20 codeword pieces.",
+            "achievement_emoji": ":gem:",
+            "threshold": 20
+        },
+        {
+            "name": "Harry Houdini",
+            "completion_text": "Collected thirty-two pieces of a codeword.",
+            "progress_text": "Collected {} / 32 codeword pieces.",
+            "achievement_emoji": ":tada:",
+            "threshold": 32
+        },
+        {
+            "name": "Sherlock Holmes",
+            "completion_text": "Collected fifty-two pieces of a codeword.",
+            "progress_text": "Collected {} / 52 codeword pieces.",
+            "achievement_emoji": ":mag:",
+            "threshold": 52
+        },
+        {
+            "name": "Alan Turing",
+            "completion_text": "Collected eighty-four pieces of a codeword.",
+            "progress_text": "Collected {} / 84 codeword pieces.",
+            "achievement_emoji": ":computer:",
+            "threshold": 84
+        }
+    ]
+}

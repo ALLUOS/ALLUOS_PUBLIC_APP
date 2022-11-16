@@ -1,0 +1,41 @@
+{
+    "Task instruction": "<b>Vocabulary Guessing!</b>\n In this task, one of you is shown a word. That person then tries to explain the word to the group (without using the same word, of course).",
+    "Word presentation": [
+        "@{}, please explain the word on your keyboard to the group.",
+        "All right @{}, explain the word to the group."
+    ],
+    "First word information": [
+        "All right. Let's start with the first word.",
+        "Let's get started with the first word."
+    ],
+    "Next word information": [
+        "Next word.",
+        "Okay lets continue with the next word."
+    ],
+    "Correct guess": [
+        "Well done! Your guess is correct.",
+        "That's right!",
+        "Great, that's the word I was looking for!",
+        "Congrats, that was totally right!"
+    ],    
+    "Timelimit info": [
+        "Remaining time: {} seconds.",
+        "{} seconds left."
+    ], 
+    "Timelimit reached": [
+        "Oh no. You've run out of time. What was the word, @{}?",
+        "No more time left! Tell us what the word was, please, @{}."
+    ],     
+    "Word mention": [
+        "Warning! You must not use the word when explaining it to the group. Try again!"
+    ],
+    "Category hint":[
+        "Pssst, I think the word is connected to the category {}."
+    ],
+    "Word length hint":[
+        "Pssst psssst, me again. The word has {} letters."
+    ],
+    "Letter hint":[
+        "Okay, how about this? {}"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Task instruction": [
+        "<b>Listening!</b>\nin this task you will listen to a few audio-files. Each of you has to answer a question regarding the things you heard by picking one of the given options. You can discuss your answers as a team, before you choose the answer."
+    ],
+    "story": [
+        ":woman_technologist: by completing this task, you can help Elias escape with you! He always tells me how much he misses the life on our planet, but unfortunately, he is now part of the spaceship and a loud alarm would let the aliens know, if he tried to leave... If you do well, however, you can help me disable the alarm and take him along with you back to earth. Best of luck!!!"
+    ],
+    "discuss_timer": [
+        "you have {} seconds to discuss your answer or revisit the audio if necessary. In case you are ready to give your answer before the time is up, you can press this:"
+    ],
+    "please_answer": [
+        ":woman_technologist: @{} tell me your answer!",
+        ":woman_technologist: what's your final answer, @{}?",
+        ":woman_technologist: it's time to make your final decision!@{}",
+        ":woman_technologist: what do you pick as your final answer?@{}",
+        ":woman_technologist: which one do you pick?@{}",
+        ":woman_technologist: it's time to give me your answer - so what will it be?@{}"
+    ],
+    "correct": [
+        ":woman_technologist: that's correct!",
+        ":woman_technologist: you are right!",
+        ":woman_technologist: yes, excellent!",
+        ":woman_technologist: well done!",
+        ":woman_technologist: great job, you are right!",
+        ":woman_technologist: great, that's correct!",
+        ":woman_technologist: indeed, well done!",
+        ":woman_technologist: that's right!"
+    ],
+    "incorrect": [
+        ":woman_technologist: that's incorrect.",
+        ":woman_technologist: that is wrong.",
+        ":woman_technologist: unfortunately, that's not correct.",
+        ":woman_technologist: i'm afraid you didn't get it right this time.",
+        ":woman_technologist: nope, that is not correct.",
+        ":woman_technologist: ooops, that's wrong. Better luck next time!"
+    ],
+    "round_completed": [
+        ":woman_technologist: you completed this round!",
+        ":woman_technologist: that's all for this round!",
+        ":woman_technologist: no more questions for this round!"
+    ],
+    "task_completed": [
+        ":woman_technologist: that was the last round, you completed the task! you achieved {} points."
+    ],
+    "elias_is_free": [
+        ":alien: you did it! you were able to disable the alarm. I never believed i would be able to return to my beloved earth once again.. Thank you so much, my friends!"
+    ],
+    "elias_stays": [
+        ":alien: you fought bravely and you fought well, but unfortunately it was not enough... I am not able to leave the spaceship without standing in the way of your escape. The aliens would know immediately that something is wrong! it means i must stay for now. but don't worry, i am still here to help you along the way, my friends!"
+    ]
+}

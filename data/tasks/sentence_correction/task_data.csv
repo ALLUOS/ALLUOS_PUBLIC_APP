@@ -1,0 +1,1315 @@
+sub_type,difficulty_level,sentence_corpus,correct_answers,error_words
+4,1,Do you want {} to help you?,{me},{I}
+4,1,Do you want {} to ask him?,{me},{I}
+4,1,Do you want {} to leave?,{us},{we}
+4,1,I want {} to apologize right now.,{her},{she}
+4,1,I don't want {} to be so unhappy.,{her},{she}
+4,1,Mother wants {} to help her.,{us},{we}
+4,1,The teacher wants {} to be quiet.,{us},{we}
+4,1,She wants {} to study this new grammar.,{us},{we}
+4,1,I don't want {} to hear us.,{them},{they}
+4,1,I want {} to know.,{them},{they}
+4,2,I want {} to understand why I couldn't stay.,{them},{they}
+4,2,Does he want {} to call him back?,{me},{I}
+4,2,My girlfriend wants {} to meet her parents.,{me},{I}
+4,2,We don't want {} to go wrong.,{it},{its}
+4,2,He wants {} to write a letter of complaint to the manager.,{me},{I}
+4,2,The students wanted {} to assign less homework.,{her},{she}
+4,2,She wants {} to have more time to practice.,{them},{they}
+4,2,They want {} to join them for a late dinner.,{her},{she}
+4,2,I want {} to disappear and never come back.,{her},{she}
+4,2,She wants {} to rescue her from her dull life.,{me},{I}
+4,3,Her mother wants {} to help out around the house but he is always too busy.,{her},{she}
+4,3,Employers want {} to speak more than one language.,{her},{she}
+4,3,The government wants {} to know where to go if there is a major earthquake.,"{them, us}","{they, we}"
+4,3,"My boss wants {} to go to the conference in Russia, but I just don't have the time.",{me},{I}
+4,3,Her doctor wants {} to spend more time exercising and less time watching television.,{her},{she}
+4,3,I wanted {} to wash the car today but I think it might rain.,{them},{they}
+4,3,I want {} to agree with me but she is too stubborn.,{her},{she}
+4,3,I know you want {} to finish this project by the end of the week but I am not sure if I can make the deadline.,{me},{I}
+4,3,"He wants {} to run away with her but she was smart enough to realize that if she wanted happiness, she had to stay and solve her problems.",{him},{he}
+4,1,She asked {} to stay.,{me},{I}
+4,1,I asked {} to leave.,{her},{she}
+4,1,The clerk asked {} to wait.,{me},{I}
+4,1,The doctor asked {} to cough.,{her},{she}
+4,1,The children asked {} to play.,{them},{they}
+4,1,They asked {} to wait for them.,{us},{we}
+4,1,The policeman asked {} to move the car.,{me},{I}
+4,1,My family asked {} to stop smoking.,{me},{I}
+4,1,The teacher asked {} to close the windows.,{him},{he}
+4,1,She asked {} to meet the deadline.,{me},{I}
+4,2,I asked {} to help me and he said he would.,{him},{he}
+4,2,The local government asks {} to recycle.,{them},{they}
+4,2,My son just asked {} to leave the kitchen.,{me},{I}
+4,2,The government asked {} to conserve energy.,{them},{they}
+4,2,The teacher asked {} to put away their phones.,{them},{they}
+4,2,They asked {} to sit in the smoking section.,{us},{we}
+4,2,The doctor asked {} to make another appointment for follow-up.,{us},{we}
+4,2,My husband asked {} to show him that website.,{me},{I}
+4,3,I asked {} to save me the last of the tea for my breakfast tomorrow.,{her},{she}
+4,3,My sister asked {} to come to Florida to help her when her sick husband died.,{me},{I}
+4,3,The librarian asked {} to return all the overdue books by tomorrow at the latest.,{him},{he}
+4,3,Customers often ask {} to explain the difference in price and quality between products.,{me},{I}
+4,3,The neighbor asked {} to stop making so much noise at night.,{me},{I}
+4,3,"I asked {} to clean her room, but as usual, she ignored me.",{her},{she}
+4,3,My brother asked {} to pick up more bananas from the market on my way home.,{me},{I}
+4,3,I asked {} to rent the new Tom Cruise DVD but he said it wasn't available.,{him},{he}
+4,3,He asked {} to go to the concert with him and she accepted.,{her},{she}
+4,3,He asked his teacher to allow {} to retake the test because he was interrupted by the fire drill.,{him},{he}
+4,1,I didn't tell {} to go.,{her},{she}
+4,1,She told {} to stop.,{me},{I}
+4,1,The doctor told {} to exercise.,{me},{I}
+4,1,My boss told {} to stay late.,{me},{I}
+4,1,My wife told {} to lose weight.,{me},{I}
+4,1,I told {} to shut the window.,{him},{he}
+4,1,She told {} to turn off the lights.,{me},{I}
+4,1,He told {} to call him Chris.,{me},{I}
+4,1,I told {} to visit again soon.,{her},{she}
+4,1,She told {} to stop complaining.,{him},{he}
+4,2,The repairman told {} to bring the car in tomorrow.,{me},{I}
+4,2,Mother always tells {} to clean my room.,{me},{I}
+4,2,My teacher always tells {} to do our homework on time.,{us},{we}
+4,2,My friend always tells {} to think positively.,{me},{I}
+4,2,My doctor often tells {} to balance work and play.,{me},{I}
+4,2,I told {} to let me know if he needs any help.,{him},{he}
+4,2,She told {} to answer the door.,{me},{I}
+4,2,He told {} not to touch his phone.,{me},{I}
+4,2,He told {} to use his new shampoo if I wanted to.,{me},{I}
+4,2,The teacher told {} to stretch before exercising.,{us},{we}
+4,3,She told {} to listen for the phone while she was in the shower.,{me},{I}
+4,3,We told {} to stay home and watch TV while we were out.,{them},{they}
+4,3,I told {} to wait for you but I am sorry to say that they didn't.,{them},{they}
+4,3,I told {} to call me if there was any news on his condition.,{him},{he}
+4,3,I told {} to come to the make-up class during the sixth period but I am not sure if they will.,{them},{they}
+4,3,"After she told {} to stop eating refined sugar, I did, and now I feel much better.",{me},{I}
+4,3,The doctor told {} to take his medicine with food.,{him},{he}
+4,3,I told {} to buy that cheap printer but she didn't listen to me.,{her},{she}
+4,3,She told {} to send the work to her as soon as I finished it.,{me},{I}
+4,1,I will help {} to understand.,{them},{they}
+4,1,This will help {} to improve.,{them},{they}
+4,1,This will help {} to sleep.,{them},{they}
+4,1,Practice will help {} to play better.,{them},{they}
+4,1,Could you help {} to stand?,{her},{she}
+4,1,Help {} to get through this week!,{me},{I}
+4,1,Coffee can help {} to stay awake.,{us},{we}
+4,1,This website can help {} to schedule classes.,{them},{they}
+4,1,Will e-readers help {} to read better?,{them},{they}
+4,1,It is important to help {} to succeed.,{them},{they}
+4,2,Eating more vegetables will help {} to feel better.,{us},{we}
+4,2,Exercising more will help {} to lose weight.,{us},{we}
+4,2,Practicing aikido can help {} to have more confidence.,{us},{we}
+4,2,Yoga can help {} to improve your balance.,{you},{your}
+4,2,Pain relievers will help {} to get rid of that headache.,{us},{we}
+4,2,Quiet background music can help {} to concentrate.,{us},{we}
+4,2,Please help {} to find his phone and wallet.,{him},{he}
+4,2,Please help {} to make sense of this terrible news.,{me},{I}
+4,2,We need to help {} to make better decisions.,{them},{they}
+4,2,Eating well can help {} to perform better in school.,{them},{they}
+4,3,"Sometimes it is hard to know what will help {} to feel better, but certainly eating whole, natural food is a good place to start.",{us},{we}
+4,3,Eating all that junk food will not help {} to feel any better.,{us},{we}
+4,3,Could you help {} to book tickets for my summer travel to Europe?,{me},{I}
+4,3,The ideas in this book might help {} to understand what you are feeling.,{you},{your}
+4,3,We have advice to help {} to do well on job interviews.,{them},{they}
+4,3,Teachers can help {} to understand why homework is useful to them.,{them},{they}
+4,3,I will go to Florida soon to help {} to move to a new home.,{her},{she}
+4,3,So many people help {} to make this project a great success.,{us},{we}
+4,3,The passenger hopped out of the truck to help {} to back up.,{him},{he}
+4,3,The company promises to help {} to feel more secure in their own homes.,{them},{they}
+4,1,"I'd like {} to help me, please.",{them},{they}
+4,1,I'd like {} to set the table for dinner.,{her},{she}
+4,1,I'd like {} to clean your room.,{you},{your}
+4,1,She would like {} to come with us.,{them},{they}
+4,1,Would you like {} to help you?,{me},{I}
+4,1,"If you'd like {} to leave, I will.",{me},{I}
+4,1,What would you like {} to do?,{us},{we}
+4,1,Would you like {} to sweep the floor?,{me},{I}
+4,1,When would you like {} to start?,{me},{I}
+4,1,Where would you like {} to put this?,{me},{I}
+4,2,When would you like {} to arrive?,{us},{we}
+4,2,Would you like {} to carry that for you?,{me},{I}
+4,2,Would you like {} to show you to your room?,{me},{I}
+4,2,Would you like {} to help you prepare dinner?,{me},{I}
+4,2,How would you like {} to frame this photo?,{me},{I}
+4,2,Where would she like {} to set up the stereo?,{us},{we}
+4,2,Where would he like {} to put his luggage?,{us},{we}
+4,2,Where would you like {} to watch the movie?,{them},{they}
+4,2,I would like {} to finish it before dinner.,{us},{we}
+4,2,She would like {} to call before you visit.,{you},{your}
+4,3,The police would like {} to tell the whole story again from the beginning.,{you},{your}
+4,3,She would not like {} to leave without letting her know.,{him},{he}
+4,3,"I know you would like {} to visit, but we can't afford the airfare this year.","{me, us}","{I, we}"
+4,3,We'd like {} to answer the questions on the attached form.,{them},{they}
+4,3,Please check with your supervisor to see if there is anything she would like {} to do before you leave for the day.,{you},{your}
+4,3,How would you like {} to set up the chairs for the meeting?,{them},{they}
+4,3,Please tell the workers that she would like {} to set up the chairs in rows of ten.,{them},{they}
+4,3,What time would she like {} to schedule her presentation?,{us},{we}
+4,3,I would like {} to finish your broccoli before you have dessert.,{you},{your}
+4,3,She would like {} to finish this assignment before I relax.,{me},{I}
+4,1,Shall I teach {} to dance?,{them},{they}
+4,1,Maybe you can teach {} to swim.,{them},{they}
+4,1,Can you teach {} to read Japanese?,{me},{I}
+4,1,I taught {} to learn from their mistakes.,{them},{they}
+4,1,He taught {} to write in Chinese.,{her},{she}
+4,1,His father taught {} to cook.,{him},{he}
+4,1,Will you teach {} to drive?,{me},{I}
+4,1,He taught {} to play the guitar.,{me},{I}
+4,1,I wish someone would teach {} to sing.,{me},{I}
+4,1,Her father taught {} to play golf.,{her},{she}
+4,2,Parents teach {} to be responsible.,{them},{they}
+4,2,Our job is to teach {} to think for themselves.,{them},{they}
+4,2,She taught {} to be polite.,{them},{they}
+4,2,The monks teach {} to be compassionate.,{us},{we}
+4,2,Could you please teach {} to use this website?,{me},{I}
+4,2,They don't teach {} to think for ourselves here.,{us},{we}
+4,2,He taught {} to drive a car last summer.,{me},{I}
+4,2,Will you teach {} to bake bread?,{me},{I}
+4,2,I can teach {} to write a research paper.,{them},{they}
+4,2,No one taught {} to swim.,{me},{I}
+4,3,"These days, schools don't teach {} to function in society.",{them},{they}
+4,3,It is important to teach {} to be kind to one another.,{them},{they}
+4,3,"At this school, they teach {} to get up before dawn every morning.",{them},{they}
+4,3,My mother taught {} to never sign a contract that I did not read and fully understand.,{me},{I}
+4,3,"She taught {} to be true, kind, and useful, and to learn.",{me},{I}
+4,3,I tried to teach {} to answer job interview questions successfully.,{them},{they}
+4,3,She tried to teach {} to knit but I never really got the hang of it.,{me},{I}
+4,1,Please allow {} to help.,{me},{I}
+4,1,Will you allow {} to go?,{me},{I}
+4,1,This will allow {} to check in online.,{us},{we}
+4,1,Google allows {} to search the web quickly.,{us},{we}
+4,1,Allow {} to introduce myself.,{me},{I}
+4,1,My parents will not allow {} to go.,{me},{I}
+4,1,Please allow {} to finish my story.,{me},{I}
+4,1,Allow {} to suggest a restaurant.,{me},{I}
+4,1,Allow {} to demonstrate.,{me},{I}
+4,1,Will you allow {} to go with you?,{me},{I}
+4,2,Allow {} to escort you.,{me},{I}
+4,2,This phone allows {} to make emergency calls for free.,{them},{they}
+4,2,The rules don't allow {} to work full-time.,{us},{we}
+4,2,Why would I allow {} to use my phone?,{them},{they}
+4,2,Some websites allow {} to read the news for free.,{us},{we}
+4,2,This site will not allow {} to upload pictures.,{us},{we}
+4,2,Facebook allows {} to personalize their profiles.,{them},{they}
+4,2,The belt allows {} to adjust the fit.,{us},{we}
+4,2,Solar panels will allow {} to save money on electricity.,{us},{we}
+4,2,Certain kinds of neural cells allow {} to ignore pain.,{us},{we}
+4,3,The government allows {} to apply for work permits.,{us},{we}
+4,3,The new immigration bill would allow {} to stay in the country.,{me},{I}
+4,3,This system allows {} to monitor all in-coming and out-going payments.,{me},{I}
+4,3,Knowing a second language allows {} to obtain better paying jobs.,{us},{we}
+4,3,This permit will allow {} to serve food and drinks in the festival.,{us},{we}
+4,3,The union would not allow {} to make the announcement.,{us},{we}
+4,3,This research has allowed {} to develop new treatment methods for various illnesses.,{us},{we}
+4,3,Her computer would not allow {} to access her files without a password.,{her},{she}
+4,3,The law does not allow {} to make those kinds of deals anymore.,{us},{we}
+4,3,These findings allow {} to conclude that there was a high level of sulfur in the steel.,{them},{they}
+5,1,Has the movie {} started?,"{already, just}",{since}
+5,1,Have you done it {}?,"{already, yet}",{ever}
+5,1,Have you seen it {}?,"{already, yet}",{ever}
+5,1,Have you {} finished?,"{already, just}",{yet}
+5,1,Have you {} eaten?,"{already, just}",{yet}
+5,1,Have you {} seen this DVD?,"{already, ever}",{yet}
+5,1,Has it {} been repaired?,"{already, just, ever}",{yet}
+5,1,Has it {} been finished?,"{already, just, ever}",{yet}
+5,1,She has {} gotten a job.,"{already, just}",{yet}
+5,1,She has {} arrived.,"{already, just}",{yet}
+5,1,Have you {} arrived?,"{already, just}",{yet}
+5,1,Has the university {} opened?,"{already, just}",{yet}
+5,1,Has he {} started?,"{already, just}",{yet}
+5,1,He has {} left.,"{already, just}",{yet}
+5,1,We have {} begun.,"{already, just}",{yet}
+5,1,She's {} sent me a letter.,"{already, just}",{yet}
+5,1,They have {} come in.,"{already, just}",{yet}
+5,1,Has registration {} started?,"{already, just}",{yet}
+5,1,Have you {} had lunch?,"{already, just}",{yet}
+5,1,Have you {} started?,"{already, just}",{yet}
+5,2,Have you {} read today's paper?,"{already, just}",{yet}
+5,2,Have you {} done the dishes?,"{already, just, ever}",{yet}
+5,2,Has he {} finished the laundry?,"{already, just, ever}",{yet}
+5,2,Has he {} cleaned the apartment?,"{already, just, ever}",{yet}
+5,2,Have they {} made the announcement?,"{already, just, ever}",{yet}
+5,2,Have you {} finished your work?,"{already, just}",{yet}
+5,2,Have you {} picked up the bike?,"{already, just}",{yet}
+5,2,They have {} seen this one.,"{already, just}",{yet}
+5,2,They have {} been to the store.,"{already, just}",{yet}
+5,2,He has {} finished his big project.,"{already, just}",{yet}
+5,2,She has {} received her letter.,"{already, just}",{yet}
+5,2,My idea has {} been approved by the teacher.,"{already, just}",{yet}
+5,2,He has {} opened all his birthday gifts.,"{already, just}",{yet}
+5,2,They have {} announced the new award winners.,"{already, just}",{yet}
+5,2,He has {} won several games.,"{already, just}",{yet}
+5,2,She has {} been named as the class president.,"{already, just}",{yet}
+5,2,They have {} joined several clubs.,"{already, just}",{yet}
+5,2,The children have {} gone to sleep.,"{already, just}",{yet}
+5,2,I have {} started my new job.,"{already, just}",{yet}
+5,2,I have {} finished my homework.,"{already, just}",{yet}
+5,2,I have {} started on my work.,"{already, just}",{yet}
+5,2,She has {} published a new book.,"{already, just}",{yet}
+5,2,He has {} broken a world record.,"{already, just}",{yet}
+5,2,Someone has {} found my phone.,"{already, just}",{yet}
+5,2,She has {} returned from three years abroad.,"{already, just}",{yet}
+5,2,They've {} quit smoking.,"{already, just}",{yet}
+5,2,They've {} asked her to stay another year.,"{already, just}",{yet}
+5,2,That boy has {} eaten the last sandwich.,"{already, just}",{yet}
+5,3,His mother had {} left for work when he woke up.,"{already, just}",{yet}
+5,3,The father had {} hung the laundry when the rain started.,"{already, just}","{since, yet}"
+5,3,They had {} heard the weather forecast when the snow started.,"{already, just}","{since, yet}"
+5,3,I have {} returned from a wonderful vacation.,"{already, just}",{yet}
+5,3,We had {} finished the DVD when they walked in.,"{already, just}","{since, yet}"
+5,3,We had {} finished dinner when the room started to shake.,"{already, just}","{since, yet}"
+5,3,We had {} finished the test when the bell rang.,"{already, just}","{since, yet}"
+5,1,Have you finished {}?,"{yet, already}",{just}
+5,1,Have you eaten {}?,"{yet, already}",{just}
+5,1,Have you done it {}?,"{yet, already}",{just}
+5,1,Have you started classes {}?,"{yet, already}",{just}
+5,2,Have you seen this movie {}?,"{yet, already}",{just}
+5,2,Have you started your new job {}?,"{yet, already}",{just}
+5,2,Have you had any interviews {}?,"{yet, already}",{just}
+5,2,Have you done your homework {}?,"{yet, already}",{just}
+5,2,Have you finished your work {}?,"{yet, already}",{just}
+5,1,They haven't arrived {}.,{yet},"{just, already}"
+5,1,I haven't told them {}.,{yet},"{just, already}"
+5,1,We haven't eaten {}.,{yet},"{just, already}"
+5,1,They haven't started {}.,{yet},"{just, already}"
+5,1,The class hasn't finished {}.,{yet},"{just, already}"
+5,1,I haven't mailed it {}.,{yet},"{just, already}"
+5,1,They haven't left {}.,{yet},"{just, already}"
+5,1,He hasn't returned {}.,{yet},"{just, already}"
+5,1,She hasn't come home {}.,{yet},"{just, already}"
+5,1,It hasn't been repaired {}.,{yet},"{just, already}"
+5,1,We haven't met {}.,{yet},"{just, already}"
+5,1,I haven't written it {}.,{yet},"{just, already}"
+5,2,The Ministry hasn't told us {}.,{yet},"{just, already}"
+5,2,The grant hasn't been given out {}.,{yet},"{just, already}"
+5,2,The project hasn't been finished {}.,{yet},"{just, already}"
+5,2,We haven't been introduced {}.,{yet},"{just, already}"
+5,2,The staff haven't opened the office {}.,{yet},"{just, already}"
+5,3,The manager hasn't told the employees about it {}.,{yet},"{just, already}"
+5,3,The newspapers haven't released the victim's name {}.,{yet},"{just, already}"
+5,3,The court hasn't decided the punishment {}.,{yet},"{just, already}"
+5,3,The registration office hasn't released the class lists {}.,{yet},"{just, already}"
+5,1,Have you {} seen a rainbow?,"{ever, just, already}","{yet, since}"
+5,1,Has he {} called you?,"{ever, just, already}",{yet}
+5,1,Have they {} apologized?,"{ever, just, already}",{yet}
+5,1,Have I {} hurt you?,"{ever, just, already}",{yet}
+5,1,Have I {} lied to you?,"{ever, just, already}",{yet}
+5,1,Have you {} been in love?,"{ever, already}",{yet}
+5,1,Have you {} written a story?,"{ever, just, already}",{yet}
+5,1,Have you {} flown a plane?,"{ever, just, already}",{yet}
+5,1,Have you {} played the guitar?,"{ever, just, already}",{yet}
+5,2,Have you {} heard of this person?,"{ever, just, already}",{yet}
+5,2,Has he {} said he was sorry?,"{ever, just, already}",{yet}
+5,2,Have you {} been alone in a new country?,{ever},{yet}
+5,2,Have you {} tried to build a car?,"{ever, just, already}",{yet}
+5,2,Have you {} gone to sleep on a train?,"{ever, already}",{yet}
+5,2,Have you {} read War and Peace?,"{ever, just, already}",{yet}
+5,1,I have known her {} almost twenty years.,{for},"{just,ever,since,already,yet}"
+5,1,He has been crying {} hours.,{for},"{just,ever,since,already,yet}"
+5,1,Neale has been in Canada {} two weeks.,{for},"{just,ever,since,already,yet}"
+5,1,We've lived in Tokyo {} a long time.,{for},"{just,ever,since,already,yet}"
+5,1,I have been teaching here {} many years.,{for},"{just,ever,since,already,yet}"
+5,1,My brother has been unemployed {} three months.,{for},"{just,ever,since,already,yet}"
+5,1,Dan has been studying in Ottawa {} a year.,{for},"{just,ever,since,already,yet}"
+5,1,I've been driving {} more than 30 years.,{for},"{just,ever,since,already,yet}"
+5,1,We've been working on this project {} decades.,{for},"{just,ever,since,already,yet}"
+5,1,They've been drinking wine {} hours.,{for},"{just,ever,since,already,yet}"
+5,2,I have been listening to him complain {} years.,{for},"{just,ever,since,already,yet}"
+5,2,She has been a great friend to me {} many years.,{for},"{just,ever,since,already,yet}"
+5,2,My brother-in-law has been fighting cancer {} many months.,{for},"{just,ever,since,already,yet}"
+5,2,He has been receiving chemotherapy every week {} six months.,{for},"{just,ever,since,already,yet}"
+5,2,He has been dieting {} weeks but hasn't lost any weight.,{for},"{just,ever,since,already,yet}"
+5,2,We have been doing research together {} about ten years.,{for},"{just,ever,since,already,yet}"
+5,2,She's been working here {} more than 13 years.,{for},"{just,ever,since,already,yet}"
+5,2,I've been sitting in front of this computer {} too many hours.,{for},"{just,ever,since,already,yet}"
+5,2,I've been training in aikido {} about seven years.,{for},"{just,ever,since,already,yet}"
+5,3,Talks between the various parties over the right of self defense have been the subject of debate {} several months.,{for},"{just,ever,since,already,yet}"
+5,3,The injured were taken to (the) hospital where they have been {} several days.,{for},"{just,ever,since,already,yet}"
+5,3,He has been the ambassador to China {} several years.,{for},"{just,ever,since,already,yet}"
+5,3,Wages in many industries have increased {} the first time in many years.,{for},"{just,ever,since,already,yet}"
+5,3,The radio show has been on {} 20 minutes.,{for},"{just,ever,since,already,yet}"
+5,3,The mountains have been slowly turning over {} millions of years.,{for},"{just,ever,since,already,yet}"
+5,3,I have been writing sentences {} millions of years.,{for},"{just,ever,since,already,yet}"
+5,1,It has been raining {} Tuesday.,"{since, all, on}","{from, for, yet}"
+5,1,I have been ill {} this morning.,{since},"{from, for, yet}"
+5,1,He has been angry {} the meeting.,{since},{from}
+5,1,The door has been locked {} she left.,{since},{from}
+5,1,The money has been missing {} he quit.,{since},{from}
+5,1,It has been cloudy {} daybreak.,{since},{from}
+5,1,She has been sad {} her dog died.,{since},{from}
+5,1,He has been crying {} noon.,{since},{from}
+5,1,He has been happy {} she returned.,{since},"{from, yet}"
+5,1,I have lived here {} I was five.,{since},{from}
+5,1,He's been out of work {} March.,{since},{from}
+5,2,Takeshi has lived in London {} October of 2013.,{since},{from}
+5,2,We have been waiting in this line {} 5 o'clock.,{since},{from}
+5,2,She's been reading books {} she was only three years old.,{since},{from}
+5,2,He's been unemployed {} he lost his job in March.,{since},{from}
+5,2,We've known about his illness {} October last year.,{since},"{for, yet, already}"
+5,2,Her memory hasn't been the same {} the accident.,{since},{from}
+5,2,She has been depressed {} the baby was born.,{since},{from}
+5,2,They've been celebrating {} they got up this morning.,{since},{from}
+5,2,He has been dieting {} his heart attack last spring.,{since},{from}
+5,2,He's been smoking {} he was a teenager.,{since},{from}
+5,2,I've been juicing my fruits {} I bought that expensive juicer.,{since},{from}
+5,2,They've gotten along so much better {} his mother died.,{since},{from}
+5,3,I have been thinking about eating grilled octopus {} I saw that commercial on television.,{since},{from}
+5,3,She's been watching Korean dramas {} she first discovered them years ago.,{since},{from}
+5,3,I've been sleeping in another room {} my husband started snoring.,{since},{from}
+5,3,I haven't seen her {} we were in high school together.,{since},{from}
+5,3,She hasn't spoken to him {} he said she looked fat in her new dress.,{since},{from}
+5,3,They haven't gotten any sleep {} the twins were born.,{since},"{from, after}"
+5,3,The scientist's research has been questioned {} other researchers were unable to duplicate her method.,{since},"{from, after, when}"
+5,3,"The Japanese economy has been slowly recovering {} the earthquake, tsunami and nuclear accident in Fukushima in 2011.","{since, after, from}",{for}
+5,3,She hasn't eaten any nuts or shellfish {} she had a terrible allergic reaction when she was a child.,"{since, because}",{from}
+5,3,Deaths of children have decreased {} the government passed new laws for babysitters and daycare centers.,{since},"{from, when}"
+9,1,"{} Jack nor Tom went out today, they stayed inside and played video games.",{neither},{either}
+9,1,"It was {} too cold nor hot today, the weather was just right.",{neither},{either}
+9,1,"I know about {} Emily nor Emma, they never called me.",{neither},{either}
+9,1,"I have {} time nor money, I can't help you.",{neither},{either}
+9,1,"She has {} a mom nor a dad, she lives with her grandmother.",{neither},{either}
+9,1,"I like {} vegetables nor fruits, I never liked them.",{neither},{either}
+9,1,"She has {} a sister nor a brother, but she has many cousins.",{neither},{either}
+9,1,"There are {} people nor animals outside, the streets are completely empty.",{neither},{either}
+9,1,"I play {} soccer nor basketball, I only play tennis.",{neither},{either}
+9,1,"I like {} hot dogs nor burgers, I prefer eating healthy food.",{neither},{either}
+9,2,"My mother is {} pleased nor dissatisfied with my grades, she knows I try my best.",{neither},{either}
+9,2,"{} trains nor airplanes are fast enough, long distances still take many hours.",{neither},{either}
+9,2,"{} my parents nor the school is happy with me, I need to be a better student.",{neither},{either}
+9,2,"{} Jeremy's parents nor his friends knew his whereabouts, they haven't seen him all day.",{neither},{either}
+9,2,"{} his older sister nor his younger sister has a job, they are still students.",{neither},{either}
+9,2,My father {} drinks nor smokes and he regularly attends his doctor appointments.,{neither},{either}
+9,2,"I like {} adventure novels nor horror stories, I prefer detective books.",{neither},{either}
+9,2,"{} Anna nor her peers were ready for the final exam, they didn't study hard enough.",{Neither},{Either}
+9,2,"{} New York nor Los Angeles are quiet cities, the streets are always busy.",{Neither},{Either}
+9,2,"You are {} overweight nor too skinny, you look beautiful just the way you are.",{neither},{either}
+9,3,"{} America nor Japan wants to start a trade war, they both prefer peace.",{Neither},{Either}
+9,3,"{} plan A nor plan B will reduce enough carbon dioxide to significantly improve earth's condition, we need to do more.",{Neither},{Either}
+9,3,{} my friend nor I will go to the high school reunion since we didn't have close friends there.,{Neither},{Either}
+9,3,{} my sister nor I wanted to go to the gym to exercise because we felt too lazy today.,{Neither},{Either}
+9,3,"{} the Democrats nor the Republicans were willing to back down during the debate, everybody was sticking to their opinions.",{Neither},{Either}
+9,3,{} all the money in the world nor fame can get you true love.,{Neither},{Either}
+9,3,"I would want to live in {} an extremely hot climate nor an extremely cold one, I prefer a mild climate.",{neither},{either}
+9,3,"{} complaining nor procrastinating will help you get your work done, in the end you just need to sit down and do it.",{Neither},{Either}
+9,3,"{} high school students nor college students are completely sensible, they often prioritize fun things.",{Neither},{Either}
+9,3,"{} a hamburger nor tomato sauce spaghetti sounds appetizing to me right now, I am feeling a little nauseous.",{Neither},{Either}
+12,1,"If I {} you, I would go.","{was, were}","{am, be, been}"
+12,1,"If I {} her, I would leave.","{was, were}","{am, be, been}"
+12,1,"If I {} you, I'd take an umbrella.","{was, were}","{am, be, been}"
+12,1,"If I {} you, I wouldn't eat that.","{was, were}","{am, be, been}"
+12,1,"If I {} there, I'd go with you.","{was, were}","{am, be, been}"
+12,1,"If I {} a king, I'd make peace.","{was, were}","{am, be, been}"
+12,1,"If I {} rich, I'd build a school.","{was, were}","{am, be, been}"
+12,1,"If I {} still single, I'd get married.","{was, were}","{am, be, been}"
+12,2,I wouldn't do that if I {} you.,"{was, were}","{am, be, been}"
+12,2,"If I {} you, I wouldn't worry about it.","{was, were}","{am, be, been}"
+12,2,"If I {} you, I'd buy bottled water and batteries.","{was, were}","{am, be, been}"
+12,2,"If I {} to guess, I would say it is a good choice.","{was, were}","{am, be, been}"
+12,2,I could reach it if I {} a little bit taller.,"{was, were}","{am, be, been}"
+12,2,I could compete if I {} a little bit stronger.,"{was, were}","{am, be, been}"
+12,2,"If I {} a better English speaker, I could get a job overseas.","{was, were}","{am, be, been}"
+12,2,"If I {} an animal, I'd be a cat.","{was, were}","{am, be, been}"
+12,2,"If I {} feeling better, I would definitely go with you.","{was, were}","{am, be, been}"
+12,2,"If I {} you, I wouldn't push your luck.","{was, were}","{am, be, been}"
+12,3,"If I {} you, I'd go to bed early tonight so you can be fresh tomorrow.","{was, were}","{am, be, been}"
+12,3,"If I {} in charge, I would change the policies for teachers.","{was, were}","{am, be, been}"
+12,3,I'd go out if I {} not feeling so sick.,"{was, were}","{am, be, been}"
+12,3,"If I {} an engineer, I would look for a chemical safer than water to use for geothermal energy production.","{was, were}","{am, be, been}"
+12,3,"If I {} a parent, I would feed my children only very healthy food.","{was, were}","{am, be, been}"
+12,3,If only I {} able to save her from the flood.,"{was, were}","{am, be, been}"
+12,3,Would you come to the party if I {} to invite your classmates?,"{was, were}","{am, be, been}"
+12,3,"If I {} to sign up for an aikido class, would you come with me?","{was, were}","{am, be, been}"
+12,3,"If I {} Harry Potter, I am not sure I would have been so brave in those battles with his enemy.","{was, were}","{am, be, been}"
+12,3,"If I {} the prime minister, I think it would be difficult to balance the views of industry leaders who want nuclear power and citizens who don't.","{was, were}","{am, be, been}"
+12,1,"If you {} me, what would you do?",{were},"{are, be, been, was}"
+12,1,What would you do if you {} me?,{were},"{are, be, been, was}"
+12,1,"If you {} free, would you go?",{were},"{be, been, was}"
+12,1,"If you {} able, would you join us?",{were},"{be, been, was}"
+12,1,"If you {} taller, would you play basketball?",{were},"{be, been, was}"
+12,1,"If you {} bored, what would you do?",{were},"{be, been, was}"
+12,1,"If you {} me, where would you live?",{were},"{are, be, been, was}"
+12,1,"If you {} me, what would you eat?",{were},"{are, be, been, was}"
+12,1,"If you {} me, what would you wear?",{were},"{are, be, been, was}"
+12,1,"If you {} me, what would you choose?",{were},"{are, be, been, was}"
+12,2,"If you {} able to live anywhere, where would you choose?",{were},"{be, been, was}"
+12,2,"If you {} an actor, what role would you want to play?",{were},"{are, be, been, was}"
+12,2,"If you {} in my shoes, what would you do?",{were},"{are, be, been, was}"
+12,2,"If you {} an animal, which would you choose?",{were},"{are, be, been, was}"
+12,2,"If you {} in charge, what would you do?",{were},"{be, been, was}"
+12,2,"If you {} here, we would have so much fun together.",{were},"{be, been, was}"
+12,3,"If you {} a musician, what instrument would you play?",{were},"{are, be, been, was}"
+12,3,"If you {} able to go anywhere or do anything, what would you do?",{were},"{be, been, was}"
+12,3,"If you {} unemployed, where would you look for another job?",{were},"{are, be, been, was}"
+12,3,"If you {} as hungry as I am, you wouldn't be taking so long to get ready to go out for dinner.",{were},"{are, be, been, was}"
+12,3,"If you {} an economist, would you recommend raising taxes?",{were},"{are, be, been, was}"
+12,3,"If you {} the one who had gotten fired, wouldn't you see this from my point of view?",{were},"{be, been, was}"
+12,3,"If you {} a parent, would you let your children watch these televisions shows?",{were},"{be, been, was}"
+12,3,"If you {} able to vote in the next election, what party would you support?",{were},"{be, been, was}"
+12,1,"If he {} here, I'd invite him.","{was, were}","{are, be, been}"
+12,1,"If he {} in Japan, I'd know.","{was, were}","{is, be, been}"
+12,1,"If he {} alive, he would tell you.","{was, were}","{is, be, been}"
+12,1,"If he {} alive, he would be here.","{was, were}","{are, be, been}"
+12,1,"If he {} my father, I'd write him.","{was, were}","{are, be, been}"
+12,1,"If he {} my father, I'd forgive him.","{was, were}","{are, be, been}"
+12,1,"If he {} my brother, I'd help him.","{was, were}","{are, be, been}"
+12,1,"If he {} a woman, he'd be beautiful.","{was, were}","{is, be, been}"
+12,1,"If he {} here, he'd make us laugh.","{was, were}","{are, be, been}"
+12,1,"If he {} in Spain, I'd invite him.","{was, were}","{are, be, been}"
+12,2,"If he {} a few years older, he could join.","{was, were}","{is, be, been}"
+12,2,"If he {} my father, I'd tell him how I felt.","{was, were}","{is, be, been}"
+12,2,"If he {} my husband, I'd divorce him.","{was, were}","{are, be, been}"
+12,2,"If he {} my son, I'd help him make better choices.","{was, were}","{are, be, been}"
+12,2,"If he {} my brother, I wouldn't tell our parents what he did.","{was, were}","{is, be, been}"
+12,2,"If he {} here now, he would be so proud of you.","{was, were}","{is, be, been}"
+12,2,"If he {} going to be late, he would have called.","{was, were}","{is, be, been}"
+12,2,"If he {} playing for the Yankees, he'd be more famous.","{was, were}","{is, be, been}"
+12,2,"If he {} my friend, I'd tell him the truth.","{was, were}","{are, be, been}"
+12,2,"If he {} on this team, I know we'd win.","{was, were}","{is, be, been}"
+12,3,"If he {} just a few years older, he would be able to marry without permission.","{was, were}","{is, be, been}"
+12,3,"If he {} just a few years older, he could apply for that training.","{was, were}","{is, be, been}"
+12,3,"If he {} a few kilograms heavier, he would not qualify for the parachute training.","{was, were}","{is, be, been}"
+12,3,"If he {} interested in playing professionally, he would be able to be on the Olympic team.","{was, were}","{are, be, been}"
+12,3,"If he {} the first NHL draft pick, the team would gain a valuable player.","{was, were}","{are, be, been}"
+12,3,"If he {} a banker, he might lose his job in this financial crisis.","{was, were}","{are, be, been}"
+12,3,"If he {} here now, I know he would do anything for you.","{was, were}","{is, be, been}"
+12,3,I can't help but wonder how things would be different if he {} here.,"{was, were}","{is, be, been}"
+12,3,"He could fix this for us if he {} a programmer, but he can't write code.","{was, were}","{is, be, been}"
+12,1,"If it {} me, I'd leave.","{was, were}","{is, be, been}"
+12,1,"If it {} me, I'd quit.","{was, were}","{is, be, been}"
+12,1,"If it {} me, I'd join.","{was, were}","{is, be, been}"
+12,1,"If it {} me, I'd tell the truth.","{was, were}","{is, be, been}"
+12,2,"If it {} mine, why did you take it?",{was},"{are, be, been, were}"
+12,2,"If it {} mine, I'd gladly give it to you.","{was, were}","{are, be, been}"
+12,2,"If it {} his, why did you give it to me?",{was},"{are, be, been, were}"
+12,2,"If it {} Sunday, I'd happily sleep late.","{was, were}","{is, be, been}"
+12,2,"If it {} possible, I would completely change all English grammar.","{was, were}","{is, be, been}"
+12,2,"If it {} up to me, I'd go for it.","{was, were}","{are, be, been}"
+12,2,"If it {} allowed, I'd let students use these software tools.","{was, were}","{are, be, been}"
+12,2,"If it {} not safe, I would not let him go.","{was, were}","{are, be, been}"
+12,2,"If it {} rated R, I would not have taken them to see it.","{was, were}","{is, be, been}"
+12,2,"If it {} my job, I would try not to work so much overtime.","{was, were}","{is, be, been}"
+12,3,"If it {} possible to make English an easier language to speak and learn, I would simplify it.","{was, were}","{is, be, been}"
+12,3,"If it {} possible to eat more chocolate and stay fit, I would do it.","{was, were}","{are, be, been}"
+12,3,"If it {} summer, we could stay up as late as we wanted.","{was, were}","{is, be, been}"
+12,3,"If it {} not for the heavy snow, I'd gladly go with you.","{was, were}","{is, be, been}"
+12,3,"If it {} up to me, we would stay right here for the holiday and not have to deal with all the traffic.","{was, were}","{are, be, been}"
+12,3,"If it {} more dangerous to travel in that area, I would have asked him not to go.","{was, were}","{is, be, been}"
+12,3,"If it {} not so important, she would not keep reminding you to work on it.","{was, were}","{is, be, been}"
+12,3,"If it {} my project, I would have fired her a long time ago.","{was, were}","{is, be, been}"
+12,1,Wouldn't it be great if they {} here?,{were},"{was, be, been}"
+12,1,"If they {} puppies, I'd take one.",{were},"{was, be, been}"
+12,1,"If they {} healthy, I'd eat them.",{were},"{was, be, been}"
+12,1,"If they {} ripe, we could eat them.",{were},"{was, be, been}"
+12,1,"If they {} safe, I could relax.",{were},"{was, be, been}"
+12,1,"If they {} late, they should have called.","{were, are}","{was, be, been}"
+12,1,I would know if they {} here.,{were},"{was, be, been}"
+12,1,I would hear if they {} here.,{were},"{was, be, been}"
+12,1,I would be happy if they {} here.,{were},"{was, be, been, are}"
+12,1,I would be sad if they {} gone.,{were},"{was, be, been, are}"
+12,2,"If they {} on sale, I would buy more than one.",{were},"{was, be, been}"
+12,2,"If they {} too busy, they should have just said so.","{were, are}","{was, be, been}"
+12,2,"If they {} at my house, I would have fed them.",{were},"{was, be, been, are}"
+12,2,I would not know what to do if they {} arrested.,{were},"{was, be, been}"
+12,2,I would buy many tickets if they {} for the charitable purposes.,{were},"{was, be, been}"
+12,2,I would join the volunteer activities if they {} for the victims of the disaster.,{were},"{was, be, been}"
+12,2,"If they {} in an earthquake, the cell phones might not work.","{were, are}","{was, be, been}"
+12,2,"If they {} in a flood zone, they might not have survived.",{were},"{was, be, been, are}"
+12,2,"If they {} still good, I would have eaten them.",{were},"{was, be, been, are}"
+12,3,"If they {} just a little older, I wouldn't have to drive them to those early morning practice games.",{were},"{was, be, been}"
+12,3,"If they {} my children, I would not allow them to run wild in public like that.",{were},"{was, be, been, are}"
+12,3,"If they {} in Hawaii, they would feel much more relaxed.",{were},"{was, be, been}"
+12,3,"If they {} still here, I know my parents would be proud of my sons.",{were},"{was, be, been}"
+12,3,"If they {} not too expensive, I'd put solar panels on my house.",{were},"{was, be, been}"
+12,3,"If they {} hoping to book a tennis court, they needed to call very early in the morning.",{were},"{was, be, been}"
+12,3,"If they {} rude, I would just ignore them.",{were},"{was, be, been}"
+12,3,"They said that if they {} in town, they would get in touch with us.",{were},"{was, be, been}"
+12,3,"If they {} worried about flight delays, they should have checked the weather.",{were},"{was, be, been}"
+12,1,"If we {} sisters, I'd be so happy!",{were},"{was, be, been, being}"
+12,1,"If we {} married, we could live here.",{were},"{was, be, been, being}"
+12,1,"If we {} men, they would listen.",{were},"{was, be, been, being}"
+12,1,"If we {} taller, we could see.",{were},"{was, be, been, being}"
+12,1,"If we {} richer, we could travel.",{were},"{was, be, been, being}"
+12,1,"If we {} there, we could help you.",{were},"{was, be, been, being}"
+12,1,"If we {} older, we'd be dead. Just kidding, ...we'd retire.",{were},"{was, be, been, being}"
+12,1,"If we {} angels, we could love everyone.",{were},"{was, be, been, being}"
+12,1,"If we {} younger, we'd do more sports.",{were},"{was, be, been, being}"
+12,1,"If we {} younger, we'd travel more often.",{were},"{was, be, been, being}"
+12,2,"If we {} stuck in that airport, we'd be so tired.",{were},"{was, be, been, being}"
+12,2,"If we {} able to fly, I'd never walk.",{were},"{was, be, been, being}"
+12,2,"If we {} musicians, wow...wouldn't that be great?",{were},"{was, be, been, being}"
+12,2,"If we {} serious about fitness, we would exercise every morning.",{were},"{was, be, been, being}"
+12,2,"If we {} smarter, we would have finished this by now.",{were},"{was, be, been, being}"
+12,2,"If we {} wise, we would be grateful every day.",{were},"{was, be, been, being}"
+12,2,"If we {} all alike, life would be boring.",{were},"{was, be, been, being}"
+12,2,"If we {} all the same, would life be safer?",{were},"{was, be, been, being}"
+12,2,"If we {} to come, what would we need to bring?",{were},"{was, be, been, being}"
+12,2,"If we {} to buy it now, how much would it cost?",{were},"{was, be, been, being}"
+12,3,"If we {} running the government, I'd make sure teachers made more money.",{were},"{was, be, been, being}"
+12,3,"If we {} in charge of the government, I would pay more money to people who help people than to bankers.",{were},"{was, be, been, being}"
+12,3,"If we {} to stop now, we could get home before dark.",{were},"{was, be, been, being}"
+12,3,"If we {} foreigners, we would better understand how it feels to be the outsider.",{were},"{was, be, been, being}"
+12,3,"If we {} here by ourselves, we could make lots of noise.",{were},"{was, be, been, being}"
+12,3,"If we {} here by ourselves, we could turn the music up really loud.",{were},"{was, be, been, being}"
+12,3,"If we {} really honest with ourselves, we would forgive others more than we do.",{were},"{was, be, been, being}"
+12,3,"If we {} willing to risk it, we could climb up on the roof to watch the moon.",{were},"{was, be, been, being}"
+12,3,"If we {} braver, we would stand up to people who discriminate against our Muslim neighbors.",{were},"{was, be, been, being}"
+12,3,"If we {} better parents, we would have loved more and yelled less.",{were},"{was, be, been, being}"
+7,1,I {} to sleep.,"{want, wanted}",{wanting}
+7,1,Do you {} to go?,{want},{wanting}
+7,1,He {} to eat soon.,"{wants, wanted}",{wanting}
+7,1,I {} to visit Brazil.,"{want, wanted}",{wanting}
+7,1,I {} to see the cherry blossoms in spring.,"{want, wanted}",{wanting}
+7,1,I {} to eat sushi.,"{want, wanted}",{wanting}
+7,1,She {} to play cards.,"{wants, wanted}",{wanting}
+7,1,They {} to go home.,"{wants, wanted}",{wanting}
+7,1,I {} to see a movie.,"{wants, wanted}",{wanting}
+7,1,Do you {} to read this book?,{want},{wanting}
+7,2,Many people {} to be rich and famous.,"{want, wanted}",{wanting}
+7,2,She {} to enter her photos into the contest.,"{wants, wanted}",{wanting}
+7,2,Her parents {} her to be a doctor.,"{want, wanted}",{wanting}
+7,2,The survivors {} to find their missing family members.,"{want, wanted}",{wanting}
+7,2,I {} to finish early so I could go to the park.,"{want, wanted}",{wanting}
+7,2,His children {} him to take them all out for ice cream.,"{want, wanted}",{wanting}
+7,2,She {} to make a difference in the lives of the orphans.,"{wants, wanted}",{wanting}
+7,2,Many people don't really know what they {} to do.,{want},{wanting}
+7,2,Do you {} to eat in front of the television tonight?,{want},{wanting}
+7,3,I called but you were busy and I didn't {} to interrupt.,{want},{wanting}
+7,3,So many high school graduates don't know what they {} to study at university.,{want},{wanting}
+7,3,She {} to write a book but ended up just reading one instead.,{wanted},{wanting}
+7,3,"I {} to know where it was, but I couldn't get an answer.",{wanted},{wanting}
+7,3,I {} to hear about your trip to all those countries in Europe.,"{want, wanted}",{wanting}
+7,3,She {} to study law but could not get a scholarship to law school.,"{wants, wanted}",{wanting}
+7,3,Harry didn't {} to put his friends at risk when he faced his enemy.,{want},{wanting}
+7,3,Everyone {} to eat there but no one wanted to pay the bill.,{wanted},{wanting}
+7,3,I've always {} to know how so many people can live together so peacefully.,{wanted},{wanting}
+7,1,We {} to understand.,"{began, begin}","{beginning,begun}"
+7,1,I {} to see.,"{began, begin}","{beginning,begun}"
+7,1,It {} to rain.,"{began, begins}","{beginning,begun}"
+7,1,The water {} to rise.,"{began, begins}","{beginning,begun}"
+7,1,He {} to cry.,"{began, begins}","{beginning,begun}"
+7,1,The dog {} to bark.,"{began, begins}","{beginning,begun}"
+7,1,The sun {} to rise.,"{began, begins}","{beginning,begun}"
+7,1,The flowers {} to open.,"{began, begins}","{beginning,begun}"
+7,1,The animals {} to run.,"{began, begins}","{beginning,begun}"
+7,2,"As soon as the room {} to shake, we climbed under the table.",{began},"{beginning,begun}"
+7,2,"By three o'clock, we all {} to watch the clock.","{began, begin}","{beginning,begun}"
+7,2,We finally decided to sell the house when the roof {} to leak.,{began},"{beginning,begun}"
+7,2,He {} to fear for their safety.,"{began, begins}","{beginning,begun}"
+7,2,The choir stood and {} to sing.,{began},"{beginning,begun}"
+7,2,"The tea kettle {} to whistle, so I took two cups from the shelf.",{began},"{beginning,begun}"
+7,2,She {} to walk more and more slowly.,"{began, begins}","{beginning,begun}"
+7,2,Her memory {} to fail until finally she no longer knew me.,{began},"{beginning,begun}"
+7,2,"I {} to feel better, so I got some work done.",{began},"{beginning,begun}"
+7,3,"Once that sort of mole {} to turn black, you really must see a doctor.",{begins},"{beginning,begun}"
+7,3,"When it {} to rain, we raced inside, laughing.",{began},"{beginning,begun}"
+7,3,"When the sky {} to darken, she closed all the windows and locked the doors.",{began},"{beginning,begun}"
+7,3,"When he {} to cry, she picked him up and hugged him tightly.",{began},"{beginning,begun}"
+7,3,"His mother {} to complain again, so he left the room.",{began},"{beginning,begun}"
+7,3,"When the ink on the documents {} to fade, she knew it was time to change the printer cartridge.",{began},"{beginning,begun}"
+7,3,"The music {} to play, the audience stood, and the graduates slowly walked into the auditorium.",{began},"{beginning,begun}"
+7,3,"When the room {} to heat up, the students fell asleep one by one.",{began},"{beginning,begun}"
+7,3,Susan placed more blankets around him when he {} to shiver.,{began},"{beginning,begun}"
+7,1,Let's {} to read.,{try},{trying}
+7,1,I {} to study Chinese.,"{try, tried}",{trying}
+7,1,She {} to bake a cake.,"{tried, tries}",{trying}
+7,1,He {} to sing a song.,"{tried, tries}",{trying}
+7,1,The boys {} to fly the kite.,"{tried, try}",{trying}
+7,1,I {} to clean up.,"{tried, try}",{trying}
+7,1,Please {} to keep the noise down.,{try},{trying}
+7,1,He {} not to cry.,"{tried, tries}",{trying}
+7,1,Have you {} to drive a car?,{tried},{trying}
+7,2,I {} to clean up the mess.,"{tried, try}",{trying}
+7,2,I {} to convince her to stay here.,"{tried, try}",{trying}
+7,2,I {} not to look but it was too tempting.,{tried},{trying}
+7,2,"I {} not to listen, but they were speaking very loudly.",{tried},{trying}
+7,2,I {} to stop the car but the road was wet.,{tried},{trying}
+7,2,He {} to spread a message of kindness and compassion.,"{tries, tried}",{trying}
+7,2,I {} to watch all the episodes but I got sleepy.,{tried},{trying}
+7,2,She {} to dry the clothes in her room.,"{tried, tries}",{trying}
+7,3,I {} to clean up the mess before she got home.,{tried},{trying}
+7,3,I {} to do my homework but was distracted by my neighbor's loud television.,{tried},{trying}
+7,3,"I {} to finish the book before it was due, but I just couldn't find the time.",{tried},{trying}
+7,3,We {} to learn how to play that song by watching a YouTube video.,"{tried, try}",{trying}
+7,3,"I {} to use an electric fan, but it was just too hot to sleep last night.",{tried},{trying}
+7,3,"We {} our best to figure it out, but the instructions were very confusing.",{tried},{trying}
+7,3,"We {} to do our best, but sometimes we make mistakes.","{try, tried}",{trying}
+7,1,I {} to say something.,"{started, start}",{starting}
+7,1,I {} to cry.,"{started, start}",{starting}
+7,1,They {} to laugh.,"{started, start}",{starting}
+7,1,The racers {} to run.,"{started, start}",{starting}
+7,1,The glass {} to fall.,"{started, starts}",{starting}
+7,1,The room {} to shake.,"{started, starts}",{starting}
+7,1,The band {} to play.,"{started, starts}",{starting}
+7,1,The presenter {} to speak.,"{started, starts}",{starting}
+7,1,The soldiers {} to shoot.,"{started, start}",{starting}
+7,1,The dogs {} to fight.,"{started, start}",{starting}
+7,2,It {} to rain just as I walked outside.,{started},{starting}
+7,2,She {} to speak and the door flew open.,{started},{starting}
+7,2,I {} to clean out some closets but got distracted.,{started},{starting}
+7,2,I {} to write a book and then forgot all about it.,{started},{starting}
+7,2,I {} to apologize but she wouldn't listen.,{started},{starting}
+7,2,I grabbed her arm just as she {} to fall.,{started},{starting}
+7,2,"As soon as the movie ended, everyone {} to cry.",{started},{starting}
+7,2,The sun {} to rise and the animals began to move around.,{started},{starting}
+7,2,"She {} to protest, and then inexplicably, sat down again.",{started},{starting}
+7,3,They were initially quite shy when they first {} to work together.,{started},{starting}
+7,3,"Once it {} to rain, the traffic started to slow down to avoid accidents on the wet roads.",{started},{starting}
+7,3,"The wind {} to blow from the southeast, bringing heavy rain with it.",{started},{starting}
+7,3,"Before she {} to cook dinner, she waited until all the boys were home.",{started},{starting}
+7,3,He {} to complain but his teacher just shook her head.,{started},{starting}
+7,3,"Once she {} to become famous, it was difficult to go out without attracting photographers.",{started},{starting}
+7,3,"She {} to glue the pieces back to together, but then realized it was hopeless.",{started},{starting}
+7,3,"As soon as they heard the loudspeakers, the policemen {} to run toward the intersection.",{started},{starting}
+7,3,He has {} to read several books at the same time but hasn't finished any yet.,{started},{starting}
+7,1,I {} to sing.,"{like, liked}",{liking}
+7,1,She {} to play the guitar.,"{likes, liked}",{liking}
+7,1,They {} to play basketball in the afternoon.,"{like, liked}",{liking}
+7,1,He {} to sleep late on Sundays.,"{likes, liked}",{liking}
+7,1,We {} to go on vacation in the summer.,"{like, liked}",{liking}
+7,1,Birds {} to eat fruit.,{like},{liking}
+7,1,How would you {} to pay?,{like},{liking}
+7,1,Would you {} to come with us?,{like},{liking}
+7,1,Where would you {} to live?,{like},{liking}
+7,1,What would you {} to drink?,{like},{liking}
+7,2,I'd {} to make a donation to the campaign.,{like},{liking}
+7,2,She {} to volunteer at the orphanage.,"{likes, liked}",{liking}
+7,2,He {} to take very long hot showers.,"{likes, liked}",{liking}
+7,2,Teens these days often {} to spend hours on Facebook.,{like},{liking}
+7,2,I {} to finish all my work before dinner.,{like},{liking}
+7,2,Tourists often {} to eat fish and chips in England.,{like},{liking}
+7,2,She {} to shop when she gets depressed.,{likes},{liking}
+7,2,He {} to find discount prices on brand goods.,"{likes, liked}",{liking}
+7,2,We {} to take bus tours when we visit new cities.,{like},{liking}
+7,2,I'd {} to know where my car keys are.,{like},{liking}
+7,3,I'd {} to be able to get all this cleaned up before my mother comes to visit.,{like},{liking}
+7,3,That teacher {} to assign a lot of homework on the weekends.,"{likes, liked}",{liking}
+7,3,"On behalf of the committee, we would {} to present this award to Sandra for her great work.",{like},{liking}
+7,3,We {} to watch people walking down the street in their colorful clothes.,"{like, liked}",{liking}
+7,3,She {} to sit on the terrace and watch the sunset when the weather is clear.,{likes},{liking}
+7,3,I would really {} to join you but I am busy that night.,{like},{liking}
+7,1,I {} to sleep.,"{need, needed}",{needing}
+7,1,I {} to go home.,"{need, needed}",{needing}
+7,1,I {} to find a ride.,"{need, needed}",{needing}
+7,1,I {} to buy a phone.,"{need, needed}",{needing}
+7,1,He {} to call his parents.,"{needs, needed}",{needing}
+7,1,She {} to use your phone.,"{needs, needed}",{needing}
+7,1,I {} to see a doctor.,"{need, needed}",{needing}
+7,1,I {} to get a job.,"{need, needed}",{needing}
+7,1,I {} to find my cat.,"{need, needed}",{needing}
+7,1,I {} to walk my dog.,"{need, needed}",{needing}
+7,2,I {} to find out what this email means.,"{need, needed}",{needing}
+7,2,We {} to make some decisions on what we will do this summer.,"{need, needed}",{needing}
+7,2,I {} to go to the bank to check our account balance.,"{need, needed}",{needing}
+7,2,I think I {} to lose a few more kilograms.,"{need, needed}",{needing}
+7,2,I {} to eat something if you want me to think clearly.,{need},{needing}
+7,2,She {} to find a ride home tonight.,"{needs, needed}",{needing}
+7,2,He {} to know how much the tuition will cost.,"{needs, needed}",{needing}
+7,2,They {} to pool their money to buy flowers for their mother.,"{need, needed}",{needing}
+7,2,The company {} to take a good look at their business practices.,"{needs, needed}",{needing}
+7,2,I {} to sell some of these books before I can buy more.,{need},{needing}
+7,3,What we really {} to do is to figure out the priorities first.,"{need, needed}",{needing}
+7,3,The movers {} to take an inventory before they could pack.,{needed},{needing}
+7,3,We {} to get this invoice approved before it can be paid.,{need},{needing}
+7,3,Most high school graduates {} a college degree if they want a good job.,{need},{needing}
+7,3,"You {} to tell your doctor about any chest pains, or pains in your arm.",{need},{needing}
+7,3,I don't {} you to tell me what to do.,{need},{needing}
+7,3,Don't you {} to take these folders to your meeting?,{need},{needing}
+7,3,Doesn't she {} to apply to more than one university?,{need},{needing}
+7,3,We didn't {} to hear all about his medical complaints.,{need},{needing}
+7,1,I {} to speak Japanese.,"{learned, learnt, learn}",{learning}
+7,1,She {} to speak English.,"{learned, learnt, learns}","{learning, learn}"
+7,1,They {} to write in Russian alphabet.,"{learned, learnt, learn}",{learning}
+7,1,We {} to dance.,"{learned, learnt, learn}",{learning}
+7,1,The dog {} to sit.,"{learned, learnt, learns}",{learning}
+7,1,He is {} to play the guitar.,{learning},{learn}
+7,1,My mother is {} to take it easy.,{learning},{learn}
+7,1,I {} to ride a horse last summer.,"{learned, learnt}","{learning, learn}"
+7,1,She is {} to drive.,{learning},{learn}
+7,1,I am {} to pace myself.,{learning},{learn}
+7,2,I am {} to say no to things I don't want to do.,{learning},{learn}
+7,2,{} to play the guitar seemed very easy for him.,{learning},"{learn, learnt, learned}"
+7,2,We {} to trust our instincts and not other people's opinions.,"{learned, learnt, learn}",{learning}
+7,2,She {} to read when she was only three years old.,"{learned, learnt}","{learning, learns}"
+7,2,{} to fly a plane is a long process.,{learning},"{learn, learned, learnt}"
+7,2,"After the disaster, she {} to live day by day.","{learned, learnt, learns}","{learning, learn}"
+7,2,{} to compromise is sometimes a hard lesson.,{learning},"{learns,learnt, learned}"
+7,2,I never {} to ski but I did learn to skate.,"{learned, learnt}","{learning, learn}"
+7,3,"While growing up in Europe, she {} to speak several languages.","{learned, learnt}","{learning, learn}"
+7,3,I never {} to speak Japanese well in spite of living here for many years.,"{learned, learnt}","{learning, learn}"
+7,3,Did you {} to drive a motorcycle a long time ago?,{learn},"{learning, learnt, learned}"
+7,3,Didn't she {} to play the ukulele while she was in Australia?,{learn},"{learning, learnt, learned}"
+7,3,Studies have shown that children who {} to read and write in pre-school do much better in life.,"{learn, learnt, learned}","{learning, learns}"
+7,3,"After weeks of practice, they finally {} to do it perfectly.","{learned, learnt, learn}","{learning, learns}"
+7,3,Mother always said I should {} to listen before I speak.,{learn},"{learning, learnt, learned}"
+7,1,Don't {} to write.,{forget},"{forgotten, forgetting}"
+7,1,Don't {} to call.,{forget},"{forgotten, forgetting}"
+7,1,She {} to write it down.,"{forgot, forgets}","{forgotten, forgetting}"
+7,1,He {} to send in his tax form.,"{forgot, forgets}","{forgotten, forgetting}"
+7,1,We {} to bring the birthday gift.,"{forgot, forget}","{forgotten, forgetting}"
+7,1,I {} to bring my umbrella.,"{forgot, forget}","{forgotten, forgetting}"
+7,1,She {} to take out the garbage.,"{forgot, forgets}","{forgotten, forgetting}"
+7,1,I {} to buy milk.,"{forgot, forget}","{forgotten, forgetting}"
+7,1,He {} to lock the door.,"{forgot, forgets}","{forgotten, forgetting}"
+7,1,We {} to close all the windows.,"{forgot, forget}","{forgotten, forgetting}"
+7,2,Every morning she tells me not to {} my homework.,{forget},"{forgotten, forgetting}"
+7,2,"If I {} to call her, please remind me.",{forget},"{forgotten, forgetting}"
+7,2,Oh no! I {} to wish him a happy birthday!,{forgot},"{forgotten, forgetting}"
+7,2,I {} to set my alarm last night.,{forgot},"{forgotten, forgetting}"
+7,2,He {} to write down the appointment date.,"{forgot, forgets}","{forgotten, forgetting}"
+7,2,She {} to take her umbrella and came home soaked.,{forgot},"{forgotten, forgetting}"
+7,2,How could you {} to feed the cat?,{forget},"{forgotten, forgetting}"
+7,2,Did you {} that I need to use the car today?,{forget},"{forgotten, forgetting}"
+7,2,He didn't {} to bring her flowers for Mother's Day.,{forget},"{forgotten, forgetting}"
+7,3,The campaign staff were reminding everyone not to {} to vote.,{forget},"{forgotten, forgot}"
+7,3,They were all the way at the beach before she realized she had {} to bring her bathing suit.,{forgotten},"{forgetting, forget, forgot}"
+7,3,She was so worried about missing her train that she {} to lock the door.,{forgot},"{forgotten, forgetting, forgets}"
+7,3,Please don't {} to take out the trash tonight because the garbage truck comes very early in the morning.,{forget},"{forgotten, forgetting, forgot}"
+7,3,He {} to tell me that he had used the credit card to pay for the tickets.,{forgot},"{forgotten, forgetting}"
+7,3,Did you {} to submit the project by the deadline?,{forget},"{forgotten, forgetting, forgot}"
+7,3,I am so glad you didn't {} to bring the cake!,{forget},"{forgotten, forgetting}"
+7,3,He {} to walk the dog last night so now there is a big mess to clean.,{forgot},"{forgotten, forgetting, forgets}"
+7,3,She {} to bring her lunch so she was hungry and distracted all day.,{forgot},"{forgotten, forgetting}"
+7,3,I do not want to {} to call this woman back about the advertisement.,{forget},"{forgotten, forgetting, forgot}"
+7,1,They {} to go to Canada.,"{planned, plan}",{planning}
+7,1,He {} to study law.,"{planned, plans}",{planning}
+7,1,She {} to become a doctor.,"{planned, plans}",{planning}
+7,1,Let's {} to leave at 8.,{plan},{planning}
+7,1,They {} to move this summer.,"{plan, planned}",{planning}
+7,1,He {} to kill the president.,"{plans, planned}",{planning}
+7,2,He never {} to make such a mess of things.,"{planned, plans}",{planning}
+7,2,He {} to call you once he got into town.,{planned},{planning}
+7,2,Is it difficult to {} to visit so many places on one holiday?,{plan},{planning}
+7,2,Please {} to call me when you get home.,{plan},{planning}
+7,3,I {} to organize all the closets once the kids are home for their summer break.,"{plan, planned}",{planning}
+7,3,The company {} to offer a discount to seniors.,"{plans, planned}",{planning}
+7,3,It's a good idea to {} to pay off some of your debts before you try to buy a house.,{plan},{planning}
+7,3,I am sorry to hear the bank {} to take legal action against the restaurant.,{plans},{planning}
+7,1,I {} to sleep late on the weekend.,"{love, loved}",{loving}
+7,1,He {} to eat ice cream.,"{loves, loved}",{loving}
+7,1,We {} to watch action movies.,"{love, loved}",{loving}
+7,1,My friend {} to watch Korean dramas.,"{loves, loved}",{loving}
+7,1,Some people {} to go fishing.,"{love, loved}",{loving}
+7,1,He {} to lie in the sun.,"{loves, loved}",{loving}
+7,1,I would {} to come with you.,{love},{loving}
+7,1,Dan {} to travel abroad.,"{loves, loved}",{loving}
+7,1,My cat {} to have his ears rubbed.,"{loves, loved}",{loving}
+7,1,I {} to shop.,"{love, loved}",{loving}
+7,2,He {} to eat and drink until late in the night.,"{loves, loved}",{loving}
+7,2,I {} to read all kinds of books.,"{love, loved}",{loving}
+7,2,We would {} to join you for dinner.,{love},{loving}
+7,2,We {} to invite our friends over.,"{love, loved}",{loving}
+7,2,I {} to listen to his deep and smooth voice.,"{love, loved}",{loving}
+7,2,I would {} to live in a house like this one.,{love},{loving}
+7,2,She {} to go to flea markets.,"{loves, loved}",{loving}
+7,2,The boys {} to play the Xbox on the weekends.,"{love, loved}",{loving}
+7,2,I {} to listen to him play the guitar for me.,"{love, loved}",{loving}
+7,2,I'd {} to come but I can't.,{love},{loving}
+7,3,I {} to curl up with a good book on a rainy day.,"{love, loved}",{loving}
+7,3,We would {} to join you but we have another commitment that day.,{love},{loving}
+7,3,My son {} to read travel books and dream about going to exotic places.,"{loves, loved}",{loving}
+7,3,We {} having dinner parties even though it is a lot of work.,{love},{loving}
+7,3,I would {} to have the chance to work with your company.,{love},{loving}
+7,3,People {} to gather under the cherry blossoms for lunch parties.,"{love, loved}",{loving}
+7,3,Japanese and Americans both {} to watch baseball games.,"{love, loved}",{loving}
+7,3,We {} to cheer for our favorite hockey team during the playoffs.,"{love, loved}",{loving}
+7,3,The spectators {} to bang plastic bats during the games.,"{love, loved}",{loving}
+7,1,I {} to go to France one day.,"{hope, hoped}",{hoping}
+7,1,They {} to marry soon.,"{hope, hoped}",{hoping}
+7,1,I {} to graduate on time.,"{hope, hoped}",{hoping}
+7,1,She {} to go to graduate school.,"{hopes, hoped}",{hoping}
+7,1,They {} to find the missing watch.,"{hoped, hope}",{hoping}
+7,1,I {} to become a teacher.,"{hoped, hope}",{hoping}
+7,1,My son {} to go to college.,"{hopes, hoped}",{hoping}
+7,1,I {} to see you again.,"{hope, hoped}",{hoping}
+7,1,They {} to see you before you left.,{hoped},{hoping}
+7,1,I {} to find a new apartment.,"{hope, hoped}",{hoping}
+7,2,I {} to be able to come.,"{hope, hoped}",{hoping}
+7,2,I {} to send out all the invitations by tonight.,"{hope, hoped}",{hoping}
+7,2,Everyone {} to avoid another mistake.,"{hopes, hoped}",{hoping}
+7,2,The students {} to raise money for their team.,"{hope, hoped}",{hoping}
+7,2,We {} to get started before dark.,"{hope, hoped}",{hoping}
+7,2,We {} to meet at the ski park and go skiing together.,"{hope, hoped}",{hoping}
+7,2,She {} to get to bed early tonight.,"{hopes, hoped}",{hoping}
+7,2,We {} to finish this project by the deadline.,"{hope, hoped}",{hoping}
+7,2,She {} to find a good job at the job fair.,"{hopes, hoped}",{hoping}
+7,3,I {} to get some sleep but the baby made too much noise.,{hoped},{hoping}
+7,3,We {} to see that movie but I heard the tickets might be sold out.,"{hope, hoped}",{hoping}
+7,3,"I {} to lose some weight before summer, but I guess I didn't do enough exercise.",{hoped},{hoping}
+7,3,I don't know what you {} to accomplish by doing that.,"{hope, hoped}",{hoping}
+7,3,She {} to get some help carrying all these bags up the stairs.,"{hopes, hoped}",{hoping}
+7,3,The candidate {} to get a seat in the next general election.,"{hopes, hoped}",{hoping}
+6,1,{} video games teaches goal strategies.,{playing},{Play}
+6,1,Many people enjoy {}.,{reading},{read}
+6,1,{} for a long time is hard.,{Waiting},{Wait}
+6,1,{} can be fun.,{Learning},{Learn}
+6,1,{} is a winter sport.,{Skiing},{Ski}
+6,1,{} to class is important.,{Going},{Go}
+6,1,{} can get you into trouble.,{Cheating},{Cheat}
+6,1,{} sick is an awful feeling.,{Being},{Be}
+6,1,{} is something I enjoy doing.,{Driving},{Drive}
+6,2,I know that {} the lectures is important.,{attending},{attend}
+6,2,"When I'm sick, {} in class makes me feel very anxious.",{coughing},{cough}
+6,2,{} is a big problem in many schools.,{Bullying},{Bully}
+6,2,{} brownies has been my specialty for a while now.,{Baking},{Bake}
+6,2,{} quickly is something I've become very good at.,{Typing},{Type}
+6,2,{} your own mind can be as important as listening.,{Speaking},{Speak}
+6,2,"{} five, energetic children is very hard work.",{Babysitting},{Babysit}
+6,2,{} alone at night makes me nervous.,{Walking},{Walk}
+6,2,{} is very important because we need energy.,{Eating},{Eat}
+6,3,{} a business requires multiple skills and patience.,{Managing},{Manage}
+6,3,{} every step of your problem is important to ensure that you're doing the experiment right.,{Reporting},{Report}
+6,3,The girls were {} for the right to attend school.,{fighting},{fight}
+6,3,{} can be therapeutic because it gives you the experience of having different identities.,{Acting},{Act}
+6,3,"{} is very healthy, so I try to do something every day that makes me laugh.",{Laughing},{Laugh}
+6,3,{} has been popular for both young and old people for many decades.,{Skating},{Skate}
+6,3,{} art can be a great outlet for stress.,{Creating},{Create}
+6,3,Formal {} is being taken over by informal communication such as texting and emailing.,{writing},{write}
+6,3,{} is what matters more than whether or not you succeed.,{Trying},{Try}
+6,3,{} friends can make a big difference in how happy your life is.,{Having},{Have}
+6,1,She could not stop {}.,{yawning},{yawn}
+6,1,The girl didn't stop {}.,{walking},{walk}
+6,1,She didn't stop {}.,{talking},{talk}
+6,1,He didn't stop {}.,{working},{work}
+6,1,Liam couldn't stop {}.,{laughing},{laugh}
+6,1,Anna never stopped {}.,{smiling},{smile}
+6,1,He couldn't stop {} at her.,{looking},{look}
+6,1,She never stopped {} him.,{loving},{love}
+6,1,My mom never stopped {}.,{knitting},{knit}
+6,1,She finally stopped {} around the room.,{walking},{walk}
+6,2,"Although it was past his bedtime, he didn't stop {}.",{reading},{read}
+6,2,Why did they stop {} music in the restaurant?,{playing},{play}
+6,2,She stopped {} once she retired.,{teaching},{teach}
+6,2,He stopped {} tennis when he injured his knee.,{playing},{play}
+6,2,We can't go out if it doesn't stop {}.,{snowing},{snow}
+6,2,The child did not stop {} until his mother came.,{crying},{cry}
+6,2,Our dog is excitable but it stops {} when told to.,{barking},{bark}
+6,2,It's not raining anymore but they stopped {} outside anyway.,{playing},{play}
+6,2,"Once Jamie got his candy, he stopped {}.",{crying},{cry}
+6,2,Lena would not stop {} until her mother scolded her.,{talking},{talk}
+6,3,"Ever since our uncle was killed by a shark, my brother stopped {}.",{diving},{dive}
+6,3,Our professor stopped {} when he spotted a student sleeping in class.,{talking},{talk}
+6,3,He loved basketball but he stopped {} after he graduated from college.,{playing},{play}
+6,3,Liam never stopped {} to achieve his goal.,{trying},{try}
+6,3,"Because she was so shy, Tess always stopped {} whenever someone came into her room.",{singing},{sing}
+6,1,He liked {} to her.,{talking},{talk}
+6,1,She liked {} ice cream.,{eating},{eat}
+6,1,He likes {}.,{reading},{read}
+6,1,My mother likes {}.,{fishing},{fish}
+6,1,My father likes {}.,{cooking},{cook}
+6,1,Lina likes {} postcards.,{collecting},{collect}
+6,1,Mia likes {} our new puppy.,{petting},{pet}
+6,1,Diane likes {} movies on weekends.,{watching},{watch}
+6,1,He likes {} in the park.,{running},{run}
+6,1,She likes {} sweets.,{eating},{eat}
+6,2,He is very shy so he doesn't like {} in front of the whole class.,{speaking},{speak}
+6,2,"For some reason, she likes {} with people.",{arguing},{argue}
+6,2,He likes {} people to social events.,{inviting},{invite}
+6,2,He likes {} money on unnecessary things.,{spending},{spend}
+6,3,"He likes {} but because of his bad eyesight, he cannot read for very long.",{reading},{read}
+6,3,He likes {} his nose in other people's business and gossiping about it.,{sticking},{stick}
+6,3,Liz likes {} care of our cat and often plays with him.,{taking},{take}
+6,3,She does not like {} into trouble but often finds herself being interrogated by the teachers and being sent to the principal's office.,{getting},{get}
+6,3,It is admirable how he likes {} hard and getting good results.,{working},{work}
+6,1,He loves {} comic books.,{reading},{read}
+6,1,My father loves {} on weekends.,{cooking},{cook}
+6,1,He loved {} in the park.,{walking},{walk}
+6,1,Mr. Jones loves {} movies in class.,{showing},{show}
+6,1,My little brother loves {}.,{talking},{talk}
+6,1,The teacher loves {} on me.,{picking},{pick}
+6,1,The dog loves {} with the children.,{playing},{play}
+6,1,She loves {} a massage.,{getting},{get}
+6,1,Amanda loved {} to his friends.,{talking},{talk}
+6,1,The puppy loves {} our leftovers.,{eating},{eat}
+6,2,John always got in trouble because he loved {}.,{fighting},{fight}
+6,2,They loved {} during their free time.,{singing},{sing}
+6,2,Our son loves {} and examining bugs.,{catching},{catch}
+6,2,The mother loved {} presents for her children.,{buying},{buy}
+6,3,"Emily loves {} in class, and that makes her a very engaging student.",{contributing},{contribute}
+6,3,The King loved {} extravagant social events for his people.,{throwing},{throw}
+6,3,The gorilla was surprisingly social and loved {} out to interact with people.,{coming},{come}
+6,3,"The child had talent, and he loved {} his singing and dancing abilities to the world.",{showcasing},{showcase}
+6,3,She loved {} pampered by her boyfriend and having him shower her with presents.,{getting},{get}
+6,1,I enjoy {}.,{reading},{read}
+6,1,I enjoy {} basketball.,{playing},{play}
+6,1,I finished {} the movie.,{watching},{watch}
+6,1,I finished {} on my assignment.,{working},{work}
+6,1,Would you mind {} me some water?,{getting},{get}
+6,1,Would you mind {} me the salad?,{passing},{pass}
+6,1,I avoid {} when it's snowing.,{running},{run}
+6,1,I avoid {} in front of people.,{speaking},{speak}
+6,1,I gave up {} soccer.,{playing},{play}
+6,1,I put off {} my chores.,{doing},{do}
+6,2,I enjoy {} a nice cup of warm tea.,{drinking},{drink}
+6,2,I enjoy {} free things by going to certain events.,{getting},{get}
+6,2,I finished {} the Lord of the Rings series yesterday.,{reading},{read}
+6,2,I finished {} my essay today.,{writing},{write}
+6,2,I don't mind {} more food.,{getting},{get}
+6,2,Would you mind {} me into the building?,{letting},{let}
+6,2,I'm trying to avoid {} caught for writing graffiti on the school walls.,{getting},{get}
+6,2,I avoid {} my friends from high school because they are immature.,{seeing},{see}
+6,2,I gave up {} to Liz because she is so argumentative.,{talking},{talk}
+6,2,I put off {} homework because I'm always very sleepy.,{doing},{do}
+6,3,I enjoy {} new people and expanding my social circle.,{meeting},{meet}
+6,3,I enjoy {} praised for my work because that means people recognize my efforts.,{getting},{get}
+6,3,I finally finished {} to my girlfriend after five hours of arguing.,{talking},{talk}
+6,3,"After I finished {} the homeless in our town, I felt a great wave of guilt for previously avoiding them.",{interviewing},{interview}
+6,3,I don't mind {} you with your homework if you will help me later.,{helping},{help}
+6,3,Do you mind {} the car started while I go get the kids?,{getting},{get}
+6,3,I avoid {} into confrontations with people because it drains my energy.,{getting},{get}
+6,3,I avoid {} my relatives when I come back home because they are extremely nosy.,{seeing},{see}
+6,3,I gave up {} to arrange a meeting with Megan since she always seems to be very busy.,{trying},{try}
+6,3,I put off {} on weekends because I want to do other things.,"{working, work}",{works}
+6,1,Thanks for {}.,{coming},{come}
+6,1,I use these shoes for {}.,{running},{ran}
+6,1,He wants those shoes for {}.,{hiking},{hiked}
+6,1,I need these glasses for {}.,{studying},{studied}
+6,1,I apologize for {} you.,{troubling},{trouble}
+6,1,I will use that for {}.,"{travelling, traveling, travel}","{travelled, travel}"
+6,1,You should thank them for {}.,{waiting},{wait}
+6,1,I gave her crayons for {}.,{drawing},{drew}
+6,1,She needs new paint brushes for {}.,{painting},{painted}
+6,1,The dog needs a leash for {}.,{walking},{walked}
+6,2,Big dogs are very good for {} the house.,{guarding},{guards}
+6,2,Petting animals is good for {} people under stress.,{relaxing},{relaxes}
+6,2,It's time for you to buy proper gear for {}.,{running},{run}
+6,2,Teresa needs money for {} back to Paris.,{flying},{flew}
+6,2,Elsa wants new tools for {} a new scarf.,{knitting},{knits}
+6,3,We carefully analyze every academic paper and follow certain guidelines for {} which paper to publish.,{deciding},{decided}
+6,3,It is essential to use good evidence and examples for {} your customers.,{persuading},{persuaded}
+6,3,She scolded her son for {} too much time with his friends at his school because his grades had dropped drastically.,{spending},{spend}
+6,3,She used her favorite notebook for note {} in her favorite class.,{taking},{take}
+6,3,She scolded her brother for {} his friend's idea and taking credit as if it were his own.,{stealing},{steal}
+6,3,The police shut down the pet shop for {} puppies under inhumane conditions.,{breeding},{breed}
+6,1,She was skilled in {}.,{painting},{paint}
+6,1,She was interested in {} animals.,{studying},{studied}
+6,1,He was very skilled at {}.,{singing},{sing}
+6,1,He greatly improved in {} French.,{speaking},{speak}
+6,2,He succeeded in {} a cure for cancer.,{finding},{finds}
+6,2,They made no progress in {} the sick children.,{helping},{help}
+6,2,"Although she was tall, she showed no interest in {} volleyball.",{playing},{plays}
+6,2,He was very slow in {} the lesson.,{understanding},{understood}
+6,3,"My father succeeded in {} a new, more eco-friendly form of public transportation.",{inventing},{invented}
+6,3,She had no hesitation in {} some people in the room in order to make her point clear.,{offending},{offended}
+6,3,My mother warned me that he was skilled at {} people.,{manipulating},{manipulates}
+6,3,Lana has difficulty with {} the material taught in class and may need special attention.,{understanding},{understands}
+6,3,Ben is not interested in {} business with us so we must stop pestering him.,{doing},{does}
+6,1,You must go on {}.,{reading},{read}
+6,1,I didn't plan on {}.,{quitting},{quit}
+6,1,He's very keen on {} a puppy.,{getting},{gets}
+6,1,We must keep on {}.,{going},{go}
+6,1,He went on {} the entire night.,{talking},{talked}
+6,2,At the interview he kept on {} me questions.,{asking},{ask}
+6,2,She insisted on {} out of the house last year.,{moving},{moved}
+6,2,Mina kept on {} until her mother came home.,{crying},{cry}
+6,2,She kept on {} taller until she was in her 20s.,{growing},{grow}
+6,2,They focused on {} one book instead of read many.,{reading},{read}
+6,3,John knew that he and his wife Linda couldn't go on {} like this forever.,{arguing},{argue}
+6,3,She went on {} her book and ignored the commotion that was occurring around her.,{reading},{read}
+6,3,Ian's mother went on {} about her day until she realized he was no longer listening.,{complaining},{complain}
+6,3,"If we give up we will die, so we must keep on {} until we find shelter.",{moving},{move}
+6,3,"She insisted on {} him medical attention, but the injured man just shrugged her off and kept walking.",{getting},{got}
+6,1,Are you good at {}?,{singing},{sing}
+6,1,She is good at {}.,{writing},{write}
+6,1,We are good at {}.,{acting},{act}
+6,1,My mother is good at {}.,{cooking},{cook}
+6,1,She is bad at {}.,{drawing},{draw}
+6,2,I'm very quick at {} decisions.,{making},{make}
+6,2,He is extremely good at {} and should stick to it.,{dancing},{dance}
+6,2,He's very good at {} care of children.,{taking},{take}
+6,2,She's bad at {} the piano but amazingly good at singing.,{playing},{play}
+6,3,"Since he used to be a detective, he is skilled at {} valuable information from different people.",{acquiring},{acquire}
+6,3,My grandmother was always wonderful at {} bedtime stories.,{telling},{tell}
+6,3,She is brilliant at {} and she already has a job after she graduates from college.,{designing},{design}
+6,3,She is very good at {} and she should be given much more credit than she receives.,{teaching},{teach}
+6,3,"Mr. Henderson was amazingly good at {} people laugh, and he will be truly missed.",{making},{make}
+6,1,I had a problem with {} that computer.,{using},{use}
+6,1,Please help me with {} this call.,{making},{make}
+6,1,We don't agree with {} children.,{hitting},{hit}
+6,1,I am bored with {} to him talk.,{listening},{listen}
+6,1,I am bored with {} this assignment.,{doing},{do}
+6,2,Her team was credited with {} a difference.,{making},{make}
+6,2,He was charged with {} a false report.,{making},{make}
+6,2,How does she combine exercising with {}?,{studying},{study}
+6,2,She was obsessed with {} into her dream college.,{getting},{get}
+6,2,My son struggles with {} dressed by himself.,{getting},{get}
+6,2,She was obsessed with {} that TV series.,{watching},{watch}
+6,3,The problem with {} comments online is that they never disappear.,{making},{make}
+6,3,Zach was always concerned with {} money and using his time efficiently.,{making},{make}
+6,3,He never had trouble with {} friends in school.,{making},{make}
+6,3,"No matter how noble your goals are, I don't agree with {} people in order to pursue them.",{hurting},{hurt}
+6,3,I agree with {} the percentage of international students who receive scholarships from universities in the United States.,{increasing},{increase}
+6,1,He walked away without {} anything.,{saying},{say}
+6,1,He ran without {} proper shoes.,{wearing},{wear}
+6,1,She crossed the river without {}.,{falling},{fall}
+6,1,She left without {} to anyone.,{speaking},{speak}
+6,1,He played the drums without {}.,{stopping},{stop}
+6,2,Amanda kept working without {} the noise.,{noticing},{notice}
+6,2,She sat there without {} at anyone else.,{looking},{look}
+6,2,We cannot make this cake without {} the eggs with flour.,{mixing},{mix}
+6,2,My older twin sisters managed to spend a day without {}.,{arguing},{argue}
+6,3,Jamie continued her day without {} any more mistakes and went home relieved.,{making},{make}
+6,3,"You cannot go without {} taxes, and the richer you are, the more you pay.",{paying},{pay}
+6,3,Ellie often takes very good photographs of celebrities without them {}.,{noticing},{notice}
+6,3,"The interviewer was a little unfriendly, and continued asking questions without {}.",{smiling},{smile}
+6,3,"Without actually {} us why, we were all asked to leave the party.",{telling},{tell}
+6,1,She felt so much better after {}.,{napping},{napped}
+6,1,The kids were less cranky after {} lunch.,{eating},{eat}
+6,1,Please take a shower after {}.,{exercising},{exercised}
+6,1,"After {} the meat, Emily felt ill.",{eating},{eat}
+6,1,"After {} for hours, his back started to ache.",{sitting},{sit}
+6,2,He had a place to work right after {} from college.,{graduating},{graduate}
+6,2,I couldn't sleep after {} the news.,{watching},{watch}
+6,2,I felt sad after {} that movie.,{watching},{watch}
+6,2,Johnny started crying after {} off the swing.,{falling},{fallen}
+6,2,She felt great after {} out in the morning.,{working},{worked}
+6,3,"He used to be a very handsome young man, but after {} old he was just like everyone else.",{growing},{grow}
+6,3,"After {} overseas for such a long time, I felt like a foreigner when I came back home.",{living},{live}
+6,3,"After {} with my sister for what seemed like hours, we ended up making peace over chocolate cake.",{arguing},{argue}
+6,3,"After {} in my senior project, I finally felt like a free man.",{handing},{handed}
+6,3,"After {} from high school, we all lost contact with each other and made new friends.",{graduating},{graduate}
+6,1,She cleared her throat before {}.,{speaking},{speak}
+6,1,She took a nap before {} out.,{going},{go}
+6,1,He decided to read a little before {}.,{sleeping},{sleeps}
+6,1,He fixed his tie before {} his presentation.,{starting},{starts}
+6,1,He closed his eyes before {}.,{jumping},{jumped}
+6,2,I finished all of my homework before {} to bed.,{going},{gone}
+6,2,She took a deep breath before {} the letter.,{opening},{opened}
+6,2,She took a sip of the brew before {} more spices.,{adding},{added}
+6,2,She made many friends before {} the country.,{leaving},{leave}
+6,2,The chef washed his hands thoroughly before {} the food.,{handling},{handled}
+6,3,"Our brother, who goes to college overseas, was showered with love and affection before {} off to Europe.",{flying},{fly}
+6,3,"He will live in the city with his friend for a couple of months before {} on his own, just so he can get used to the lifestyle.",{living},{live}
+6,3,It is essential to proofread your final essay before {} it in to the teacher.,{turning},{turned}
+6,3,"Before {} off to America, Ally gave each of her siblings a big hug and a present.",{flying},{fly}
+6,3,The hostess made a toast before {} dinner to her guests.,{serving},{serve}
+10,1,He works {} his mother.,"{for, with}","{from, to}"
+10,1,You work {} money.,"{for, with}","{from, to}"
+10,1,I pay {} your tuition.,{for},{from}
+10,1,Will you pay {} his ticket?,{for},"{to, of}"
+10,1,He fights {} his people.,"{for, with}","{up, to, of}"
+10,1,I fight {} my country.,{for},"{up, to, of}"
+10,1,I write {} the student newspaper.,{for},"{from, of}"
+10,1,She is waiting {} her sister.,{for},"{from, to, of}"
+10,1,I cook {} my mom sometimes.,"{for, with}","{from, to, of}"
+10,1,She cooks {} her little brother.,"{for, with}","{from, to, of}"
+10,2,I work {} my father's company during school breaks.,{for},"{from, to, of}"
+10,2,He used to work {} the government but quit last year.,{for},"{up, to, of}"
+10,2,I paid {} my mother's trip to Hawaii.,{for},"{to, of}"
+10,2,I will pay {} your car if you get good grades.,{for},"{to, of}"
+10,2,I will continue to fight {} my rights.,{for},"{up, to, of}"
+10,2,This area is known {} its peaches.,{for},"{from, to, of}"
+10,2,I used to write {} the local paper.,{for},"{from, of}"
+10,2,He always cooks {} his wife on weekends.,"{for, with}","{from, to, of}"
+10,2,My friend cooked {} her mother on Mother's Birthday.,"{for, with}","{from, to, of}"
+10,3,My brother worked {} the Washington Hospital as an intern last summer.,"{for, in, at}","{up, to, of}"
+10,3,He worked {} a film company that documented the prevalence of homelessness in New York City.,"{for, in, at}","{up, to, of}"
+10,3,"He paid {} his flight months before, yet they still did not process the payment.",{for},"{into, to, of}"
+10,3,"Being the good brother he is, he paid {} his sister's loans once he was able to afford it.",{for},"{into, to, of}"
+10,3,It's important to understand the issues before you vote {} your candidate.,{for},"{up, to, of, with}"
+10,3,I write {} those who cannot speak for themselves.,"{for, about}","{to, in, of}"
+10,3,The judge called {} order in the courtroom after the outburst.,{for},"{up, of, to}"
+10,3,"I looked {} a gift for my girlfriend, but I just don't know what she would like.",{for},"{to, of}"
+10,3,I care {} my grandmother by cheering her up and providing her with nutritious meals.,{for},"{up, to, about, of}"
+10,1,You look {} your sister.,{like},{as}
+10,1,He looks {} his mother.,{like},{as}
+10,1,The boy looks {} a man now.,{like},{as}
+10,1,That sounds {} a typical teenage romance.,{like},"{as, by}"
+10,1,When she sings she sounds {} an angel.,{like},"{as, by}"
+10,1,I felt {} I was a kid again.,{like},"{as, if}"
+10,1,Up on stage I felt {} a star.,{like},"{as, by}"
+10,1,He died {} a hero.,{like},{as}
+10,1,Adam slept {} a baby today.,{like},"{as, by}"
+10,2,That seems {} a harsh punishment.,{like},"{as, by}"
+10,2,The milk smelled {} it had spoiled.,{like},{of}
+10,2,Ben looks {} he's really enjoying college.,{like},"{as, by, of, if}"
+10,2,My older sister is beginning to sound {} our mother.,{like},"{as, by, of}"
+10,2,I'm a little concerned because Emily sounds {} she's in pain.,{like},"{as, by, of}"
+10,2,He acted {} a jerk when he won the game.,{like},"{as, by, of}"
+10,2,They were dressed {} they were ready for Halloween.,{like},"{as, by, of}"
+10,2,He neither fought nor died {} Achilles.,{like},{as}
+10,2,Max tried to sing {} Beyonce to cheer up his little sister.,{like},{as}
+10,2,Amanda was so exhausted she slept {} a dead person.,{like},"{as, of}"
+10,3,Lina's make up was so well done she really looked {} Angelina Jolie from afar.,{like},"{as, by, of}"
+10,3,My professor looked {} someone I knew in high school but I couldn't quite figure out who.,{like},"{as, by, of}"
+10,3,I couldn't stop staring at my sister's dress because it made her look {} she was wearing cotton candy.,{like},"{as, by, of, if}"
+10,3,I'm a little concerned because the captain sounds {} he doesn't know what he's doing.,{like},"{as, of, if}"
+10,3,I'm going to check on the baby because he sounds {} he's about to cry.,{like},"{as, of, if}"
+10,3,That nap was so rejuvenating I felt {} a new person!,{like},"{as, of, by}"
+10,3,Richard felt {} he was annoying Jess with all the attention he was giving her.,{like},"{as, if}"
+10,3,"My grandfather died {} he lived, quietly and without fuss.","{like, as, how}","{of, by, what}"
+10,3,Mrs. Robert's daughter is only fourteen but she sings {} a professional.,{like},"{as, of, by}"
+10,3,"We were treated {} very special guests, so yes, it was a great visit.",{like},"{as, of, if}"
+10,1,I do not agree {} you.,{with},"{from, in, near, up, to, of}"
+10,1,The garden is filled {} flowers.,{with},"{in, up, to, of}"
+10,1,I am pleased {} his grades.,"{with, about}","{from, in, of, to}"
+10,2,Liz constantly fights {} Emma over very small things.,{with},{to}
+10,2,I generally agree {} what he says but this time I don't.,{with},"{from, in, near, up, of}"
+10,2,My bag is heavy because it's filled {} unnecessary things.,{with},"{in, near, from, to, of}"
+10,2,I am pleased {} the outcome of my project.,{with},"{of, near, past, since, up, to}"
+10,3,Lina stayed {} a wonderful host family during her exchange program last fall.,{with},"{from, up, to, of, near}"
+10,3,You need to learn to work {} William even though you dislike him.,"{with, for}","{from, to, of}"
+10,3,It's nice to sit {} a cup of hot cocoa by the fireplace when it's snowing outside.,{with},"{as, from, in, near, to, of}"
+10,3,You should not fight {} your parents because without them you wouldn't be here.,{with},"{during, from, in, up, to, of}"
+10,3,Jane's grandfather is walking {} a cane because his legs are weak.,{with},"{up, by, from, of}"
+10,3,Mrs. Walters stood {} her hands on her hips and a stern look on her face.,{with},"{during, from, in, since, to, of}"
+10,3,I am very content with life and every day is filled {} laughter.,{with},"{during, near, past, since, to}"
+10,3,The teacher seems very pleased {} your frequent participation in class.,"{with, about}","{during, near, past, up, to}"
+11,1,John sat down {}.,{quickly},{quick}
+11,1,He ate his dinner very {}.,{quickly},{quick}
+11,1,She went home {}.,{quickly},{quick}
+11,1,She spoke {}.,{quickly},{quick}
+11,1,I finished homework {}.,{quickly},{quick}
+11,1,He woke up {}.,{quickly},{quick}
+11,1,He noticed the dog {}.,{quickly},{quick}
+11,1,He untied his boots {}.,{quickly},{quick}
+11,1,The mother hugged her child {}.,{quickly},{quick}
+11,1,The apples started to rot {}.,{quickly},{quick}
+11,2,I folded my clothes {}.,{quickly},{quick}
+11,2,Evan jumped out of his seat {}.,{quickly},{quick}
+11,2,He grabbed his keys {}.,{quickly},{quick}
+11,2,The damage was fixed {} so father never knew.,{quickly},{quick}
+11,2,John was so excited he opened his presents very {}.,{quickly},{quick}
+11,2,Emily ran {} to catch the last bus home.,{quickly},{quick}
+11,2,She started to walk {} when she noticed someone following her.,{quickly},{quick}
+11,2,I finished my math exam {} so I could leave.,{quickly},{quick}
+11,2,He turned {} and saw his mother in the crowd.,{quickly},{quick}
+11,2,Lizzy ran down the basketball court {} and made the shot.,{quickly},{quick}
+11,3,Samantha returned her overdue books {}.,{quickly},{quick}
+11,3,Amanda hung up the phone {} when she realized she wasn't talking to her mother.,{quickly},{quick}
+11,3,Let's work {} so we can finish before our favorite show comes on.,{quickly},{quick}
+11,3,I need you to decide {} or I can't hire you for this job.,{quickly},{quick}
+11,3,"Once the business meeting finished, the vice president left quite {}.",{quickly},{quick}
+11,3,He drove {} to make sure he was going to be there on time.,{quickly},{quick}
+11,3,She moved aside {} when she saw the car heading toward her.,{quickly},{quick}
+11,3,"If you want me to buy you an ice cream, choose your flavor {}.",{quickly},{quick}
+11,3,The teachers {} escorted the students to safety.,{quickly},{quick}
+11,3,"Since Emma was sick, she got tired {} and decided to leave soccer practice earlier than usual.",{quickly},{quick}
+11,1,Paul walked {}.,{carefully},{careful}
+11,1,He looked through the books {}.,{carefully},{careful}
+11,1,The women listened {}.,{carefully},{careful}
+11,1,He read through the newspaper {}.,{carefully},{careful}
+11,1,He entered the cave {}.,{carefully},{careful}
+11,1,He boiled the spaghetti {}.,{carefully},{careful}
+11,1,Think about it {}.,{carefully},{careful}
+11,1,Please aim {}.,{carefully},{careful}
+11,1,He drove {}.,{carefully},{careful}
+11,1,He shut the door {}.,{carefully},{careful}
+11,2,He listened to the instructions {}.,{carefully},{careful}
+11,2,She cared for the injured cat {}.,{carefully},{careful}
+11,2,"After he petted the dog, he washed his hands {}.",{carefully},{careful}
+11,2,He read the contract {}.,{carefully},{careful}
+11,2,You need to think through it {}.,{carefully},{careful}
+11,2,He moved the delicate artwork {}.,{carefully},{careful}
+11,2,The soldier aimed his rifle {}.,{carefully},{careful}
+11,2,The taxi driver drove {} through the busy streets of Tokyo.,{carefully},{careful}
+11,2,He carried the dishes {} but unfortunately dropped them.,{carefully},{careful}
+11,2,The father carried his sleeping son {} to bed.,{carefully},{careful}
+11,3,The brain tumor had to be removed {} so that it would not damage other parts of the brain.,{carefully},{careful}
+11,3,He spoke to her {} so he wouldn't insult her in any way.,{carefully},{careful}
+11,3,He pressed the button {} because he wasn't sure what it would do.,{carefully},{careful}
+11,3,Jack walked toward the injured dog slowly and {}.,{carefully},{careful}
+11,3,She looked at the painting {} and finally realized that it was fake.,{carefully},{careful}
+11,3,He examined the meat {} and decided it was no longer fit to eat.,{carefully},{careful}
+11,3,He watched the movie {} to study how the characters were developed.,{carefully},{careful}
+11,3,Mark walked over the broken shards of glass {}.,{carefully},{careful}
+11,3,She examined her baby {} in hopes of finding what was making her cry.,{carefully},{careful}
+11,3,They planned the trip {} so they would not encounter any complications.,{carefully},{careful}
+11,1,She started crying {}.,{suddenly},{sudden}
+11,1,He {} stood up.,{suddenly},{sudden}
+11,1,The train stopped {}.,{suddenly},{sudden}
+11,1,She {} fell over.,{suddenly},{sudden}
+11,1,She woke up {}.,{suddenly},{sudden}
+11,1,He {} got angry.,{suddenly},{sudden}
+11,1,His bird died {}.,{suddenly},{sudden}
+11,1,The coach shouted {}.,{suddenly},{sudden}
+11,1,I {} slipped.,{suddenly},{sudden}
+11,1,He {} started running.,{suddenly},{sudden}
+11,2,The birds {} stopped chirping.,{suddenly},{sudden}
+11,2,The car {} sped up.,{suddenly},{sudden}
+11,2,He {} started violently coughing.,{suddenly},{sudden}
+11,2,"After soccer practice, my leg {} started hurting.",{suddenly},{sudden}
+11,2,My grandmother {} started singing as she washed the dishes.,{suddenly},{sudden}
+11,2,He {} went from laughing to crying.,{suddenly},{sudden}
+11,2,He woke up {} when he heard a loud crash.,{suddenly},{sudden}
+11,2,"The TV turned off {}, so we knew the power had gone out.",{suddenly},{sudden}
+11,2,We were all startled because the dog barked {}.,{suddenly},{sudden}
+11,2,The room {} began to shake violently.,{suddenly},{sudden}
+11,3,"I {} realized I no longer needed to stay, so I left.",{suddenly},{sudden}
+11,3,When she saw her father at the airport she {} cried and ran towards him.,{suddenly},{sudden}
+11,3,Carla {} dropped her bags and ran out of the lecture room.,{suddenly},{sudden}
+11,3,Bill {} ran back into the house to grab his cell phone.,{suddenly},{sudden}
+11,3,We were running together but I looked back and saw that she {} disappeared.,{suddenly},{sudden}
+11,3,Her mother {} embraced her  and said words of comfort.,{suddenly},{sudden}
+11,3,Everyone thought Tom had left the country so they were surprised when he {} walked into the room.,{suddenly},{sudden}
+11,3,Carl looked worried because Amy {} turned pale.,{suddenly},{sudden}
+11,1,My tooth hurts {}.,{badly},{bad}
+11,1,He hurt his leg {}.,{badly},{bad}
+11,1,They hurt him {}.,{badly},{bad}
+11,1,She behaves {}.,{badly},{bad}
+11,1,The argument ended {}.,{badly},{bad}
+11,1,She sings very {}.,{badly},{bad}
+11,1,Things were going {} for him.,{badly},{bad}
+11,2,He was so stressed that he slept {}.,{badly},{bad}
+11,2,The conversation between my sister and my parents went {}.,{badly},{bad}
+11,2,His relationship with his girlfriend was going {}.,{badly},{bad}
+11,2,"Ever since he ate the raw fish, his stomach has hurt {}.",{badly},{bad}
+11,2,He hurt his back {} when he was moving heavy boxes.,{badly},{bad}
+11,2,I've run out of toothpaste and I need some {}.,{badly},{bad}
+11,2,"Since she wasn't feeling well today, she was playing {}.",{badly},{bad}
+11,2,He is a poor college student and needs money {}.,{badly},{bad}
+11,2,Ben slipped on ice and hurt himself {}.,{badly},{bad}
+11,3,"Ever since his dog died, he's been doing {}.",{poorly},{poor}
+11,3,"As he was trying to catch the ball, he sprained his leg {}.",{badly},{bad}
+11,3,"Surprisingly, my sister is dealing with the situation very {}.",{poorly},{poor}
+11,3,"Jess didn't prepare much for her presentation, so it went {}.",{poorly},{poor}
+11,3,"I think your friend has been doing {}, so you might want to go see him.",{badly},{bad}
+11,3,He was never a good cook so when he prepared dinner for his girlfriend it went {}.,{poorly},{poor}
+11,3,She wanted the new iPhone so {} that she worked three jobs for it.,{badly},{bad}
+11,3,He was so nervous about the interview that he slept very {} last night.,{poorly},{poor}
+11,3,"Despite being a great singer, she sang very {} that night.",{badly},{bad}
+11,3,His favorite band was visiting his town and he wanted to see them so {} that he called in sick for work.,{badly},{bad}
+11,3,The reason your heater is working {} is the dust blocking the vent.,{poorly},{poor}
+11,1,He spoke very {}.,{quietly},{quiet}
+11,1,She did her work {}.,{quietly},{quiet}
+11,1,He walked home {}.,{quietly},{quiet}
+11,1,Liz got up {}.,{quietly},{quiet}
+11,1,Josh coughed {}.,{quietly},{quiet}
+11,1,Mark began to sob {}.,{quietly},{quiet}
+11,1,Morgan left the room {}.,{quietly},{quiet}
+11,1,She listened {}.,{quietly},{quiet}
+11,1,Adam clapped {}.,{quietly},{quiet}
+11,1,She sniffed {}.,{quietly},{quiet}
+11,1,Please do it {}.,{quietly},{quiet}
+11,2,Ben sat on his bed and read his book {}.,{quietly},{quiet}
+11,2,The boys {} walked past their parents who were already asleep.,{quietly},{quiet}
+11,2,"No matter how {} I come in, he always wakes.",{quietly},{quiet}
+11,2,"If it's late when you come by, please knock {}.",{quietly},{quiet}
+11,2,Everyone at the memorial service was speaking very {}.,{quietly},{quiet}
+11,2,I've never seen a baby cry {}.,{quietly},{quiet}
+11,2,"If you must argue, please do it {}.",{quietly},{quiet}
+11,2,She slipped out {} while no one was looking.,{quietly},{quiet}
+11,2,Could you please eat more {}?,{quietly},{quiet}
+11,3,I found her crying {} in her room the day her cat died.,{quietly},{quiet}
+11,3,"It's so annoying when people think they are speaking {} into their phones, but they can be easily overheard.",{quietly},{quiet}
+11,3,I could hear the rain {} hitting the window.,{quietly},{quiet}
+11,3,She was {} doing her work when her sister burst into her room.,{quietly},{quiet}
+11,3,My friends always speak so {}.,{quietly},{quiet}
+11,3,We were laughing {} at a private joke when we noticed the teacher frowning at us.,{quietly},{quiet}
+11,3,"They were lying {} on the bed, watching the rain through the window.",{quietly},{quiet}
+11,3,"I crept {} down the stairs in the dark, thinking about that last piece of chocolate cake.",{quietly},{quiet}
+11,3,"He rearranged his collection of model cars, {} humming to himself.",{quietly},{quiet}
+10,1,Ben hurried {} school.,"{to, from}","{up, for, like}"
+10,1,Jackson was rushed {} the hospital.,{to},"{with, by, for}"
+10,2,James ran {} the bus stop to catch the last bus.,{to},"{with, by, for}"
+10,2,I will speak {} Isabel after she comes back from school.,"{to, with}","{by, up}"
+10,2,Those shoes belong {} Timmy so you must give them back.,{to},"{by, from, for, like}"
+10,2,The man stood up and shouted {} the people.,"{at, to}","{by, in, like}"
+10,2,You must write {} the school to explain your situation.,{to},"{for, with, since, up}"
+10,2,Rachel was led {} her surprise birthday party.,{to},"{for, with, in, up, at}"
+10,2,James hurried {} the book store to be the first in line.,{to},"{for, with, in, up, at}"
+10,3,"Whenever the strict teacher arrives, the children run {} their seats.",{to},"{with, in, up, at, since}"
+10,3,Please speak {} your sister and resolve this conflict.,"{to, with}","{by, during, from,since, up}"
+10,3,"This property belongs {} Mr. James, who owns a car manufacturing company.",{to},"{by, during, from, past, since, up, for, like}"
+10,3,It's time to write {} your parents to see how they're doing.,{to},"{by, from, past, since, for}"
+10,3,When the doorbell rang I hurried {} the door because I knew the book I ordered had finally arrived.,{to},"{during, from, since, up, like}"
+10,3,I rushed {} my computer to finish my final essay so I could make the deadline.,{to},"{during, since, up, with, for}"
+10,1,I fought {} my sister.,"{with, for}","{past, since, to, of}"
+10,2,Always hold his hand when you walk {} your little brother.,{with},"{during, since, up, from, for, of}"

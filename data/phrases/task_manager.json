@@ -1,0 +1,91 @@
+{
+    "scenario_1": {
+        "emojis": {
+            "elias": ":alien:",
+            "harriet": ":woman_technologist:"
+        },
+        "general": {
+            "wrong_password": [
+                "❌ The password was wrong, please try again. ❌",
+                "❌ The password was not correct. Please try again. ❌"
+            ]
+        },
+        "group_intro": {
+            "elias": [
+                "Hello! My name is Elias.",
+                "I am here to guide you during your stay on the spaceship. As Harriet told you, you can trust me! I lived on Earth for a few years when I was younger, so I can speak one human language. The other aliens don't like me because... I like humans! So I will try to help you escape.",
+                "Now I have to go, don't worry, I'll come back soon."
+            ],
+            "narrator": [
+                "You are in an empty room. You look around. There is nothing on the walls. It seems there is no door. There is no way out.",
+                "Suddenly you get a message from the Earth"
+            ],
+            "harriet": [
+                "Hello! It's Harriet again. I'm trying to help you, but remember: I can only do that if I'm sure that you are humans. The easiest way to do it is to check your knowledge of one human language. Let's start with English.",
+                "Elias can understand us because he grew up on Earth, but the other aliens have a real problem with learning human languages! That's why I think the best way to prove I can trust you is by checking your human language ability. There is a tiny problem, I only speak English.",
+                "I will give you three tasks, and if you complete them correctly, I'll send you the codes to escape."
+            ],
+            "task_selection": "Choose your first task:"
+        },
+        "between_task_1_2": {
+            "success": "You did it! The task is solved! You are one step closer to your goal. So, type in the password I have sent you and you can continue your escape.",
+            "success_discussion": "You did it! By having solved this task, you are a bit closer to your goal. So, type in the password I will send you and you can continue your escape. The password is {}.",
+            "password_prompt": [
+                "After a quick look around the room, {} finds a small keyboard where you can enter the password.",
+                "{}, please enter the password."
+            ],
+            "correct_password": [
+                "One of the walls starts to crack... A door opens slowly. You can see a long, empty corridor ahead of you. This is a great chance to escape! You walk along the corridor together as slowly and quietly as possible, so that the aliens don't notice you. On the opposite side of the room, there is an elevator which could take you one step closer to a space shuttle with which you could escape.",
+                "The doors of the elevator are closed, but suddenly a small screen on the right of the elevator starts blinking. As you come closer, you see a message:"
+            ],
+            "message_harriet": "It's Harriet! You are on the right track! I can open the elevator doors, but, again, I need to make sure that you actually are humans. It is too dangerous otherwise...",
+            "failure": {
+                "harriet": "You did not solve the task. I don't want aliens to have the password, so I am not going to share it now. Just to be safe!",
+                "narrator": "You weren't able to get the code. But there is still hope: from a small corner to your right, you can hear a voice:",
+                "elias": "Hello human friends! I'm back. I would like to help you! Please start the discussion with the human hacker, Harriet The Hacker, again, and I will try to make her adjust her questions!"
+            }
+        },
+        "between_task_2_3": {
+            "success": "Suddenly, the lights turn on. Oh, no! Aliens are trying to enter the corridor. Quick, you're almost there. You just need to enter the code to open the elevator. There is a place where you can enter the code.",
+            "success_discussion": "The lights are suddenly turned on and you see the other aliens trying to enter the corridor. You are almost there, you just need to enter the code to open the lift. There is a key panel where you can enter the code.\nA familiar voice echoes through the speakers:\n{} The code is {}.",
+            "password_prompt": "{}, please enter the password.",
+            "correct_password": [
+                "You enter the elevator and press a button. Any button! The aliens run toward you as the doors close. The elevator starts going down and stops after a quick ride. You walk out and the doors close again behind you.",
+                "You realize you do not have much time and you need one more final code.",
+                "You see a screen with a message."
+            ],
+            "message_harriet": "Choose a task. This is the final step.",
+            "failure": {
+                "harriet": "You did not solve the task. I can not send you the password, the aliens might get it. I have to be careful.",
+                "narrator": "You weren't able to get the code. But there is still hope: from a small corner to your right, you can hear a voice:",
+                "elias": "Hello friends! It's me again, Elias. I see you might need help. Please start the discussion with Harriet again, and I will ask her to give you another chance!"
+            }
+        },
+        "after_failed_first_task": {
+            "harriet": "You did not solve the task. I don't want aliens to have the password, so I am not going to share it now. Just to be safe!",
+            "narrator": "You weren't able to get the code. But there is still hope: from a small corner to your right, you can hear a voice:",
+            "elias": "Hello there! I'm really sorry it didn't work out... Let me help you, I will try to convince Harriet to give you one more chance to prove yourselves! You can repeat the task now or give it a try again later. I will keep my fingers crossed for you!"
+        },
+        "end": {
+            "success": {
+                "elias": "Congratulations! You have all the codes, you can escape now! I was glad to meet you, human friends, but it's time to say goodbye",
+                "elias_discussion": "Congratulations! You have all the codes, you can escape now! I was glad to meet you, human friends, but it's time to say goodbye. The password is {}.",
+                "password_prompt": "You see the message from Elias on the display and {} enters the password.",
+                "correct_password": [
+                    "At first nothing happens and you are wondering if the password worked... Suddenly you see that the heavy door starts to open slowly. You cannot believe your eyes: there is a space shuttle in front of you! You're almost there!",
+                    "You quickly step inside and turn it on...",
+                    "You see a message from Harriet on the screen and finally start your journey back to the Earth:"
+                ],
+                "message_harriet": "Welcome back home! :wink:"
+            },
+            "failure": {
+                "elias": "I am sorry, I am so sorry, my human friends! The mission has failed!",
+                "narrator": [
+                    "There is a sound of footsteps. They are getting closer. You realize you are trapped again. Aliens manage to find you before you get the last code. They grab you and send you back to the room where you woke up.",
+                    "You are desperate and start to panic. You almost give up, but suddenly you see another message from Elias."
+                ],
+                "elias_2": "I'm sure there is still hope! Whenever you are ready, you can start your escape again. I will still be here to help you!"
+            }
+        }
+    }
+}

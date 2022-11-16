@@ -1,0 +1,74 @@
+{
+    "NONE": {
+        "message": "Skip paths",
+        "proficiency_key": false
+    },
+    "RAISE_ALL": {
+        "message": "Raise all difficulties",
+        "proficiency_key": false
+    },
+    "LOWER_ALL": {
+        "message": "Lower all difficulties",
+        "proficiency_key": false
+    },
+    "ONLY_PAST_TENSE": {
+        "message": "Only past tense sentences",
+        "proficiency_key": "TENSE"
+    },
+    "ONLY_INFINITIVES": {
+        "message": "Only to-infinitive sentences",
+        "proficiency_key": "TO_INFINITIVE"
+    },
+    "ONLY_GERUNDS": {
+        "message": "Only -ing sentences",
+        "proficiency_key": "GERUNDS"
+    },
+    "ONLY_RELATIVE_CLAUSES": {
+        "message": "Only relative clause sentences",
+        "proficiency_key": "RELATIVE_CLAUSES"
+    },
+    "ONLY_NEGATION": {
+        "message": "Only negative sentences",
+        "proficiency_key": "NEGATION"
+    },
+    "ONLY_PREPOSITIONS": {
+        "message": "Only sentences with prepositions/conjunctions",
+        "proficiency_key": "PREPOSITIONS_CONJUNCTIONS"
+    },
+    "ONLY_ADVERBS": {
+        "message": "Only sentences with adverbs/adjectives",
+        "proficiency_key": "ADVERBS_ADJECTIVES"
+    },
+    "ONLY_SUBJUNCTIVE": {
+        "message": "Only subjunctive sentences",
+        "proficiency_key": "SUBJUNCTICE"
+    },
+    "ONLY_FREE_TIME": {
+        "message": "Only words about free-time",
+        "proficiency_key": "FREE_TIME"
+    },
+    "ONLY_HUMANITIES": {
+        "message": "Only words about art/humanities",
+        "proficiency_key": "HUMANITIES"
+    },
+    "ONLY_SOCIETY": {
+        "message": "Only words about society/people",
+        "proficiency_key": "SOCIETY"
+    },
+    "ONLY_NATURE": {
+        "message": "Only words about nature/science",
+        "proficiency_key": "NATURE_AND_SCIENCE"
+    },
+    "ONLY_ALIMENT": {
+        "message": "Only words about food",
+        "proficiency_key": "ALIMENT"
+    },
+    "ONLY_BODY_SOUL": {
+        "message": "Only words about body/soul",
+        "proficiency_key": "BODY_AND_SOUL"
+    },
+    "ONLY_HOME": {
+        "message": "Only words about home",
+        "proficiency_key": "HOME_AND_BUILDING"
+    }
+}

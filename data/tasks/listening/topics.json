@@ -1,0 +1,1712 @@
+{
+    "House Viewing": {
+        "filename": "A2-House-Viewing.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What are the people doing?",
+                "viewing a house to buy",
+                [
+                    "visiting a friend",
+                    "decorating a new house"
+                ]
+            ],
+            [
+                "What are the names of the couple?",
+                "Daniel and Susan",
+                [
+                    "Daniela and Sandy",
+                    "David and Sally"
+                ]
+            ],
+            [
+                "What does the woman really like about the house?",
+                "the floor",
+                [
+                    "the garden",
+                    "the walls"
+                ]
+            ],
+            [
+                "What is the most surprising thing about the house?",
+                "it is very big",
+                [
+                    "it is all pink",
+                    "it has no garden"
+                ]
+            ]
+        ]
+    },
+    "Seasons": {
+        "filename": "B1-Seasons.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What do both speakers have in common?",
+                "they both dislike winter because it is cold",
+                [
+                    "they both like spring because it is fresh",
+                    "they both like summer because it is sunny"
+                ]
+            ],
+            [
+                "What was not mentioned about spring?",
+                "the flowers blooming",
+                [
+                    "the trees getting green",
+                    "the birds coming back"
+                ]
+            ],
+            [
+                "Which is the man's favorite season?",
+                "late summer",
+                [
+                    "early spring",
+                    "late winter"
+                ]
+            ],
+            [
+                "Where does the woman come from?",
+                "Toronto",
+                [
+                    "Trento",
+                    "Toledo"
+                ]
+            ]
+        ]
+    },
+    "Winning 1M dollars": {
+        "filename": "B2 - win 1M dollars.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "What would the first speaker do?",
+                "She would travel the world",
+                [
+                    "She would spend all of the money soon",
+                    "She would keep the money all to herself"
+                ]
+            ],
+            [
+                "What would the second speaker do?",
+                "She would quit work and apply to university",
+                [
+                    "She would quit university",
+                    "She would buy a huge mansion"
+                ]
+            ],
+            [
+                "What does the second speaker say about university?",
+                "She says it costs a lot of money",
+                [
+                    "She says it's a waste of money",
+                    "She doesn't mention it"
+                ]
+            ],
+            [
+                "Would the first speaker keep all the money to herself?",
+                "No, she would donate to charities and churches and buy presents for her loved ones",
+                [
+                    "Yes, she would",
+                    "No, she would donate to schools"
+                ]
+            ]
+        ]
+    },
+    "Luck": {
+        "filename": "A2 - luck.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What does the man think of people who always say they have bad luck?",
+                "He thinks they are negative",
+                [
+                    "He thinks they're realistic",
+                    "He doesn't mention it"
+                ]
+            ],
+            [
+                "Does the speaker like to wish people 'good luck'?",
+                "Yes, he does",
+                [
+                    "No, he thinks it doesn't make sense",
+                    "No, he's embarrassed"
+                ]
+            ],
+            [
+                "According to the speaker, can you pass an exam because of luck?",
+                "No, you can pass only if you studied well",
+                [
+                    "Yes, because someone wished you good luck",
+                    "Yes, because some people are lucky"
+                ]
+            ],
+            [
+                "Does the man believe that breaking a mirror brings bad luck?",
+                "He thinks it's strange",
+                [
+                    "Yes, he does",
+                    "He says he's not sure"
+                ]
+            ]
+        ]
+    },
+    "Memories": {
+        "filename": "A2-Memories.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What is the earliest memory that the man remembers?",
+                "playing outside",
+                [
+                    "his first day at the beach",
+                    "his mother getting angry"
+                ]
+            ],
+            [
+                "The man says everybody has more good memories than bad ones.",
+                "false",
+                [
+                    "true",
+                    "not mentioned"
+                ]
+            ],
+            [
+                "What is the man‘s best memory?",
+                "family holiday when he was ten",
+                [
+                    "eating sand when he was a child",
+                    "flooding in Mexico"
+                ]
+            ],
+            [
+                "What does the man want to do?",
+                "relive his good memories",
+                [
+                    "forget bad memories",
+                    "forget his memories from Mexico"
+                ]
+            ]
+        ]
+    },
+    "My dad": {
+        "filename": "B1-My-dad.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What kind of a person is the speaker's father?",
+                "hardworking",
+                [
+                    "loving",
+                    "funny"
+                ]
+            ],
+            [
+                "Where did the speaker's father grow up?",
+                "on a farm",
+                [
+                    "on a ranch",
+                    "in a village"
+                ]
+            ],
+            [
+                "What does the father think about his horses and chickens?",
+                "they are his family",
+                [
+                    "they are his children",
+                    "they are his best friends"
+                ]
+            ],
+            [
+                "What kind of humor does the father have?",
+                "typical for elderly",
+                [
+                    "dark",
+                    "childish"
+                ]
+            ]
+        ]
+    },
+    "Abilities": {
+        "filename": "A2-Abilities.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "Which ability is not mentioned?",
+                "dancing",
+                [
+                    "singing",
+                    "cooking"
+                ]
+            ],
+            [
+                "Why does the man think he is not a good cook?",
+                "because he eats his food even when it is not very tasty",
+                [
+                    "because he doesn't use seasoning",
+                    "because he doesn't cook a lot"
+                ]
+            ],
+            [
+                "Is the man a good student?",
+                "he is trying to be a good student",
+                [
+                    "yes, he has always been a good student",
+                    "no, he has never been a good student"
+                ]
+            ],
+            [
+                "When does the man enjoy singing?",
+                "at the karaoke",
+                [
+                    "at the barbecue",
+                    "in the shower"
+                ]
+            ]
+        ]
+    },
+    "Summer Camp": {
+        "filename": "B1-Summer-camp.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What was the name of the camp?",
+                "Pilgrim Pines",
+                [
+                    "Pilgrim Limes",
+                    "Lucky Limes"
+                ]
+            ],
+            [
+                "What animals were there in the camp?",
+                "sheep",
+                [
+                    "goats",
+                    "ponies"
+                ]
+            ],
+            [
+                "What was the woman's favorite animal when she was a child?",
+                "llama",
+                [
+                    "elephant",
+                    "camel"
+                ]
+            ],
+            [
+                "How did the woman care for her animal in the camp?",
+                "she had to feed it and brush it",
+                [
+                    "she had to feed it and wash it",
+                    "she had to wash it and brush it"
+                ]
+            ]
+        ]
+    },
+    "Customer Calling": {
+        "filename": "B2-Customer-Calling.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "Who is the man?",
+                "a customer",
+                [
+                    "a programmer",
+                    "a shop assistant"
+                ]
+            ],
+            [
+                "What is the man's problem?",
+                "he tried to make an online order but it failed",
+                [
+                    "he didn't get the memo about a faulty server",
+                    "he doesn't know anything about the product Viva Voce"
+                ]
+            ],
+            [
+                "What discount was available on the website?",
+                "25%",
+                [
+                    "30%",
+                    "20%"
+                ]
+            ],
+            [
+                "How does the man feel when he hears that he cannot get the discount?",
+                "he is relieved",
+                [
+                    "he is surprised but thinks it's fair",
+                    "he is dissatisfied and thinks it's unfair"
+                ]
+            ]
+        ]
+    },
+    "Holiday in Europe": {
+        "filename": "B2-Holiday-in-Europe.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "What is the man's reason for travelling?",
+                "he is on holiday",
+                [
+                    "he is on a business trip",
+                    "he is a coach"
+                ]
+            ],
+            [
+                "The man always tries the traditional local food when he is travelling. Is it true?",
+                "no, it is false",
+                [
+                    "yes, it is true",
+                    "he did not mention it"
+                ]
+            ],
+            [
+                "Which city was not part of their trip? ",
+                "Athens",
+                [
+                    "Edinburgh",
+                    "Paris"
+                ]
+            ],
+            [
+                "What did the man buy in Edinburgh?",
+                "a photo",
+                [
+                    "a kilt",
+                    "a postcard"
+                ]
+            ]
+        ]
+    },
+    "Health": {
+        "filename": "B1-Health.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "Why does the man not feel healthy?",
+                "because his body hurts",
+                [
+                    "because he does not exercise",
+                    "because he does not eat fast food"
+                ]
+            ],
+            [
+                "What is mentioned as one of the best things to do if you want to be healthy?",
+                "have enough sleep",
+                [
+                    "not have midnight snacks",
+                    "keep fit with exercise"
+                ]
+            ],
+            [
+                "Why can't the man see the doctor?",
+                "he has too much to do",
+                [
+                    "he is too lazy",
+                    "his head is spinning a lot"
+                ]
+            ],
+            [
+                "The man says that he is very fit and does a lot of exercise every day. Is it true?",
+                "false",
+                [
+                    "true",
+                    "not mentioned"
+                ]
+            ]
+        ]
+    },
+    "Cats vs. Dogs": {
+        "filename": "B1-Cats-vs-Dogs.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "Which pet does the woman like?",
+                "cats",
+                [
+                    "dogs",
+                    "both"
+                ]
+            ],
+            [
+                "What was NOT mentioned about cats?",
+                "they are needy",
+                [
+                    "they are selfish",
+                    "they are independent"
+                ]
+            ],
+            [
+                "What was mentioned about dogs?",
+                "they are loyal",
+                [
+                    "they can find their own food",
+                    "they are selfish"
+                ]
+            ],
+            [
+                "Which animal would the man like to have?",
+                "not mentioned",
+                [
+                    "a tortoise",
+                    "a cat"
+                ]
+            ]
+        ]
+    },
+    "Travelling": {
+        "filename": "B1 - travelling.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "Does the speaker like to travel?",
+                "yes, he think it's exciting",
+                [
+                    "no, because he hates tourists",
+                    "no, because he hates planning"
+                ]
+            ],
+            [
+                "What does he think is the most exciting thing about travelling?",
+                "travelling with no reservations or fixed plans",
+                [
+                    "meeting local people",
+                    "understanding different cultures"
+                ]
+            ],
+            [
+                "What does the speaker prefer?",
+                "hostels and guest houses",
+                [
+                    "big fancy hotels",
+                    "he doesn't mention it"
+                ]
+            ],
+            [
+                "What does the speaker like to do when travelling?",
+                "visit places off the beaten track",
+                [
+                    "visit museums",
+                    "visit famous places crowded with tourists"
+                ]
+            ]
+        ]
+    },
+    "Water": {
+        "filename": "B1 - water.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What did the speaker do on a hike years ago?",
+                "he drank water from a river",
+                [
+                    "he brought too much water with him",
+                    "he swam in the river"
+                ]
+            ],
+            [
+                "How has water changed since the speaker was a kid?",
+                "the water was fun, now it's precious",
+                [
+                    "the water was polluted, now it's clean",
+                    "the water was dangerous, now it's fun"
+                ]
+            ],
+            [
+                "What will start happening with water soon?",
+                "there will be water wars",
+                [
+                    "we will drown with too much water",
+                    "the speakers doesn't mention anything"
+                ]
+            ],
+            [
+                "Which one is true?",
+                "some countries use crazy amounts of water",
+                [
+                    "many people know how important water is",
+                    "we think too much about water"
+                ]
+            ]
+        ]
+    },
+    "Gossip": {
+        "filename": "B1 - gossip.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What does the speaker think about gossip?",
+                "he thinks it's annoying",
+                [
+                    "he thinks it's boring",
+                    "he thinks it's interesting"
+                ]
+            ],
+            [
+                "Where does the speaker hear a lot of gossip?",
+                "at work",
+                [
+                    "at home",
+                    "at the supermarket"
+                ]
+            ],
+            [
+                "The speaker thinks celebrity gossip is _____.",
+                "worse than office gossip",
+                [
+                    "more interesting than office gossip",
+                    "as bad as office gossip"
+                ]
+            ],
+            [
+                "What do some of his friends buy?",
+                "magazines",
+                [
+                    "books",
+                    "DVDs"
+                ]
+            ]
+        ]
+    },
+    "Money": {
+        "filename": "B1 - money.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "The speaker thinks the expression 'money makes the world go round' is ____. ",
+                "true",
+                [
+                    "false",
+                    "he doesn't express an opinion"
+                ]
+            ],
+            [
+                "What does money make people do according to the speaker?",
+                "kill and steal",
+                [
+                    "lie and cheat",
+                    "share with others"
+                ]
+            ],
+            [
+                "____ is responsible for blackmail, corruption, slave labour and a lot more terrible things.",
+                "Greed",
+                [
+                    "Speed",
+                    "Lead"
+                ]
+            ],
+            [
+                "The speaker thinks having lots of money would make him feel _____.",
+                "happy",
+                [
+                    "stressed",
+                    "depressed"
+                ]
+            ]
+        ]
+    },
+    "No": {
+        "filename": "A2-No.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "In which situations does the man not like the word 'no'?",
+                "when he asks someone on a date",
+                [
+                    "when he cannot set a date for a job interview",
+                    "when someone asks him to go to a club"
+                ]
+            ],
+            [
+                "What does the man compare the word 'no' with?",
+                "kick in the teeth",
+                [
+                    "kick in the face",
+                    "pain in the teeth"
+                ]
+            ],
+            [
+                "In which situation does the man never say 'no'?",
+                "when someone asks him to go out",
+                [
+                    "when someone asks him to go for a run",
+                    "when someone asks him to share his pizza"
+                ]
+            ],
+            [
+                "What is one of the phrases with 'no' that is mentioned?",
+                "no-go area",
+                [
+                    "no way Juan",
+                    "no-could-do"
+                ]
+            ]
+        ]
+    },
+    "Accidents": {
+        "filename": "A2-Accidents.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "How does the man describe his work?",
+                "it is office work so it's not so dangerous",
+                [
+                    "it is office work so it can be dangerous",
+                    "it is home office work so it's not so dangerous"
+                ]
+            ],
+            [
+                "What happens to the man all the time?",
+                "he hits his thumb with a hammer",
+                [
+                    "he hits his toe on a table leg",
+                    "he hits his head with a hammer"
+                ]
+            ],
+            [
+                "What home accident did the man talk about?",
+                "standing up and hitting his head",
+                [
+                    "sitting down and hitting his hand",
+                    "standing up and hitting his hand"
+                ]
+            ],
+            [
+                "Why should the mother of the man's friend be worried?",
+                "because her son always has some story to tell about an accident that happened to him",
+                [
+                    "because her son always has some story to tell about her",
+                    "because he always has some story to tell about an accident that happened to his friends"
+                ]
+            ]
+        ]
+    },
+    "Checking-in": {
+        "filename": "A2-Checking-in.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "When does Mr. Henderson need to give back his key card?",
+                "he does not need to give it back",
+                [
+                    "on Tuesday morning",
+                    "on Tuesday noon"
+                ]
+            ],
+            [
+                "What is Mr. Henderson's room number?",
+                "344",
+                [
+                    "334",
+                    "434"
+                ]
+            ],
+            [
+                "How long is Mr. Henderson staying at the hotel?",
+                "for two nights",
+                [
+                    "for tonight",
+                    "for tomorrow night"
+                ]
+            ],
+            [
+                "What is Mr. Henderson's room like?",
+                "single room with a sea view",
+                [
+                    "double room with a work table",
+                    "single room with a bird view"
+                ]
+            ]
+        ]
+    },
+    "Opinions": {
+        "filename": "A2-Opinions.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "According to the audio, what do we call the initial opinion of someone?",
+                "first impression",
+                [
+                    "main impression",
+                    "first look"
+                ]
+            ],
+            [
+                "According to the speaker, is this true: 'if you don't have an opinion on something, it is also some kind of opinion'?",
+                "yes",
+                [
+                    "no",
+                    "I don't know, he never said that"
+                ]
+            ],
+            [
+                "Whose opinion is thought of as correct according to the speaker?",
+                "the one's who is stronger",
+                [
+                    "the one's who is louder",
+                    "the one's who is smarter"
+                ]
+            ],
+            [
+                "What does the speaker consider important?",
+                "to listen to other people and take their opinions into account",
+                [
+                    "to be patient and be able to defend your opinion",
+                    "to be able to listen and change someone else's opinion"
+                ]
+            ]
+        ]
+    },
+    "Media": {
+        "filename": "A2-Media.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "Which of these types of media does the speaker mention?",
+                "TV news",
+                [
+                    "TV shows",
+                    "Movies and photos"
+                ]
+            ],
+            [
+                "Why are some journalists risking their lives?",
+                "because they report on the situation in war areas",
+                [
+                    "because they investigate various criminal cases",
+                    "because many people attack journalists"
+                ]
+            ],
+            [
+                "What example does the speaker give about unforgettable images?",
+                "the first steps of a man on the moon",
+                [
+                    "animals living in the deepest parts of the world's oceans",
+                    "a satellite photo of the Earth"
+                ]
+            ],
+            [
+                "How do the media make us feel?",
+                "that we are a part of the world",
+                [
+                    "that we are safe",
+                    "that there are other global problems"
+                ]
+            ]
+        ]
+    },
+    "Moon": {
+        "filename": "B1-Moon.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What is the most amazing thing about the moon according to the speaker?",
+                "people have been there",
+                [
+                    "it is the only satellite of the Earth",
+                    "it comes in different colors"
+                ]
+            ],
+            [
+                "What does the speaker say about Neil Armstrong?",
+                "he walked on the moon",
+                [
+                    "he is the best human",
+                    "he does not agree that the moon is white"
+                ]
+            ],
+            [
+                "What color is the Moon considered to be in Japan?",
+                "yellow",
+                [
+                    "white",
+                    "blue"
+                ]
+            ],
+            [
+                "What is the speaker's dream?",
+                "to spend a vacation on the moon",
+                [
+                    "to visit Mars",
+                    "to see the Earth from space"
+                ]
+            ]
+        ]
+    },
+    "Grammar": {
+        "filename": "B1-Grammar.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What does the speaker think is the best way to learn grammar?",
+                "writing texts and having them checked by a professional",
+                [
+                    "watching movies in English",
+                    "reading literature and waiting until it comes by itself "
+                ]
+            ],
+            [
+                "What was the teacher's main advice?",
+                "doing the practice activities",
+                [
+                    "asking questions when something is unclear",
+                    "writing more texts"
+                ]
+            ],
+            [
+                "Where did the speaker study English for many years?",
+                "at school",
+                [
+                    "with a tutor",
+                    "at the university"
+                ]
+            ],
+            [
+                "The speaker no longer has any difficulty in identifying grammatical tenses. Is it true?",
+                "false",
+                [
+                    "true",
+                    "he never had any difficulties"
+                ]
+            ]
+        ]
+    },
+    "Climate Change": {
+        "filename": "B2-Climate-change.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "Climate change is mentioned as the only worrying thing for our planet nowadays. Is it true?",
+                "false",
+                [
+                    "true",
+                    "not stated"
+                ]
+            ],
+            [
+                "What is one of the consequences of global warming mentioned in the audio recording?",
+                "the melting of ice caps in the Arctic and Antarctica",
+                [
+                    "higher death rates of young people",
+                    "more acidic oceans"
+                ]
+            ],
+            [
+                "What one possible way out of the current situation with climate change does the speaker suggest?",
+                "saving light energy and recycling paper",
+                [
+                    "investing in energy-efficient appliances",
+                    "eating all the food you buy and eating less meat"
+                ]
+            ],
+            [
+                "What is the main cause of climate change according to the speaker?",
+                "greenhouse gasses",
+                [
+                    "forest fires",
+                    "industrial activity"
+                ]
+            ]
+        ]
+    },
+    "French fries": {
+        "filename": "B1-French-fries.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "Where did the French Fries originally come from?",
+                "not stated",
+                [
+                    "France",
+                    "Belgium"
+                ]
+            ],
+            [
+                "According to the speaker, which fast food product is the most popular?",
+                "French fries are the most popular",
+                [
+                    "Hamburgers",
+                    "Hot dogs come first, then French fries"
+                ]
+            ],
+            [
+                "In what form does the speaker like fries the most?",
+                "French fries with ketchup and mayonnaise",
+                [
+                    "French fries sandwich",
+                    "French fries with fried onions"
+                ]
+            ],
+            [
+                "What does the speaker dislike the most?",
+                "when French fries are cold",
+                [
+                    "when French fries taste like powder",
+                    "when French fries are too hot"
+                ]
+            ]
+        ]
+    },
+    "Hacking": {
+        "filename": "B2-Hacking.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "What does 'hacking' usually mean today?",
+                "stealing people's identities, money, personal information, and so on... ",
+                [
+                    "cutting something very roughly",
+                    "cheating in a computer game"
+                ]
+            ],
+            [
+                "What is the speaker warning us about?",
+                "to be careful what information we put online",
+                [
+                    "to always come up with complex passwords",
+                    "to never trust suspicious networks"
+                ]
+            ],
+            [
+                "What can protect your data according to the speaker?",
+                "an up-to-date antivirus software",
+                [
+                    "safe sites",
+                    "complex passwords"
+                ]
+            ],
+            [
+                "According to the speaker, what do the hackers do, besides accessing personal data?",
+                "they steal secret government information",
+                [
+                    "they steal a lot of money from people's houses",
+                    "they frighten people with fake information"
+                ]
+            ]
+        ]
+    },
+    "Natural Disasters": {
+        "filename": "B2-Natural-disasters.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "The speaker says, every time he turns on the news there's some_______.",
+                "kind of a disaster",
+                [
+                    "kind of danger",
+                    "kind of drama"
+                ]
+            ],
+            [
+                "What kind of natural disasters happen in China and Mexico?",
+                "earthquakes and hurricanes",
+                [
+                    "droughts and earthquakes",
+                    "bushfires and hurricanes"
+                ]
+            ],
+            [
+                "What natural disasters occur in the speaker's country?",
+                "there usually aren't any natural disasters",
+                [
+                    "rare earthquakes",
+                    "regular floods"
+                ]
+            ],
+            [
+                "Which countries are likely to be hit hard by natural disasters?",
+                "countries in Africa",
+                [
+                    "countries in America",
+                    "countries in Europe"
+                ]
+            ]
+        ]
+    },
+    "The Cold": {
+        "filename": "B1-Cold.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "How long has the man had the cold?",
+                "for a couple of days",
+                [
+                    "for a week",
+                    "for a couple of hours"
+                ]
+            ],
+            [
+                "What is he doing for his cold?",
+                "resting",
+                [
+                    "eating soup",
+                    "taking medicine"
+                ]
+            ],
+            [
+                "The man eats a special food when he is sick, which is called Umeboshi. What is it?",
+                "a pickled sour plum",
+                [
+                    "a pickled sour cherry",
+                    "a different word for onigiri"
+                ]
+            ],
+            [
+                "What symptoms does the man have?",
+                "cough",
+                [
+                    "fever",
+                    "headache"
+                ]
+            ]
+        ]
+    },
+    "Coffee": {
+        "filename": "A2-Coffee.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What do studies say about coffee?",
+                "scientists and doctors still cannot decide if coffee is good or bad",
+                [
+                    "coffee is definitely good for health",
+                    "coffee is definitely bad for health"
+                ]
+            ],
+            [
+                "When does the speaker usually drink coffee?",
+                "one cup in the morning and a few cups at work",
+                [
+                    "one cup before lunch and one in the evening",
+                    "he drinks coffee all day"
+                ]
+            ],
+            [
+                "What is the only reason the speaker drinks coffee in the evening?",
+                "when he goes to a good restaurant",
+                [
+                    "when he works all night",
+                    "when he needs help to sleep better"
+                ]
+            ],
+            [
+                "What does the speaker say about modern coffee?",
+                "there are many varieties of coffee",
+                [
+                    "people drink coffee too often",
+                    "it is complicated to drink coffee these days"
+                ]
+            ]
+        ]
+    },
+    "Dreams": {
+        "filename": "A2-Dreams.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "How often does the speaker dream?",
+                "almost every night",
+                [
+                    "once a week",
+                    "never"
+                ]
+            ],
+            [
+                "What kind of nightmares did the speaker have when he was young?",
+                "running from a stranger",
+                [
+                    "falling",
+                    "being naked in front of people"
+                ]
+            ],
+            [
+                "What kind of dreams does the speaker like?",
+                "when he is flying",
+                [
+                    "when he is on an adventure",
+                    "when he is meeting a celebrity"
+                ]
+            ],
+            [
+                "What does usually stop the speaker's nice dreams?",
+                "alarm clock",
+                [
+                    "feeling like he is falling",
+                    "light of the morning sun"
+                ]
+            ]
+        ]
+    },
+    "My English Family": {
+        "filename": "A2 - my English family.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "Who looks out for people?",
+                "her mum",
+                [
+                    "her dad",
+                    "her brother"
+                ]
+            ],
+            [
+                "Who is very funny?",
+                "her dad",
+                [
+                    "her mum",
+                    "her brother"
+                ]
+            ],
+            [
+                "Who is serious?",
+                "no one",
+                [
+                    "everyone",
+                    "just her dad"
+                ]
+            ],
+            [
+                "Who is very smart?",
+                "she doesn't say",
+                [
+                    "her sister",
+                    "her brother"
+                ]
+            ]
+        ]
+    },
+    "Names": {
+        "filename": "A2 - names.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What does the speaker think of his names?",
+                "he likes them",
+                [
+                    "he hates them",
+                    "he neither likes them nor hates them"
+                ]
+            ],
+            [
+                "Who was the speaker named after?",
+                "his uncles",
+                [
+                    "his father",
+                    "his grandfather"
+                ]
+            ],
+            [
+                "How many names does the speaker have?",
+                "4",
+                [
+                    "1",
+                    "2"
+                ]
+            ],
+            [
+                "The speaker thinks naming a baby after a famous person is ____",
+                "silly",
+                [
+                    "fun",
+                    "interesting"
+                ]
+            ]
+        ]
+    },
+    "What to do if...": {
+        "filename": "B1- what to do if.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "When the woman is worried, she ______.",
+                "cleans",
+                [
+                    "runs",
+                    "sleeps"
+                ]
+            ],
+            [
+                "What does the woman usually do around the house?",
+                "both",
+                [
+                    "she cleans the house",
+                    "she washes the dishes"
+                ]
+            ],
+            [
+                "When the man is stressed, he _____.",
+                "exercises",
+                [
+                    "eats",
+                    "cleans"
+                ]
+            ],
+            [
+                "What does the man do, if the weather is nice?",
+                "he goes for a run",
+                [
+                    "he goes to the gym",
+                    "he feels stressed"
+                ]
+            ]
+        ]
+    },
+    "Free Time": {
+        "filename": "A2-FreeTime.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "How old is Naomi? ",
+                "11 years old",
+                [
+                    "8 years old",
+                    "13 years old"
+                ]
+            ],
+            [
+                "How long has she been playing the violin?",
+                "for about 8 years",
+                [
+                    "for about 4 years",
+                    "for about 3 years"
+                ]
+            ],
+            [
+                "What is the next level of piano that she is going to do?",
+                "grade 4",
+                [
+                    "grade 3",
+                    "grade 8"
+                ]
+            ],
+            [
+                "How many grades are there for piano lessons?",
+                "eight",
+                [
+                    "three",
+                    "four"
+                ]
+            ]
+        ]
+    },
+    "Stereotypes": {
+        "filename": "B2-Stereotypes.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "What is a stereotype?",
+                "a typical image of a type of person",
+                [
+                    "a special type of stereo equipment",
+                    "a typical kind of cartoon"
+                ]
+            ],
+            [
+                "What is said about stereotypes?",
+                "they make fun of people",
+                [
+                    "they put people in a positive light",
+                    "they are funny"
+                ]
+            ],
+            [
+                "What is the stereotype of people from the speaker's country?",
+                "they always carry an umbrella",
+                [
+                    "they don't like tea",
+                    "they laugh a lot"
+                ]
+            ],
+            [
+                "Why does the speaker think that stereotypes are bad?",
+                "they do harm in the world",
+                [
+                    "they make cartoons funny",
+                    "they are not correct"
+                ]
+            ]
+        ]
+    },
+    "20 years abroad": {
+        "filename": "A2_20-years-abroad.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "How long did Todd live in Thailand?",
+                "4 years",
+                [
+                    "1 year",
+                    "5 years"
+                ]
+            ],
+            [
+                "Which was the first country that he traveled to?",
+                "England",
+                [
+                    "Thailand",
+                    "Japan"
+                ]
+            ],
+            [
+                "Why did he live in England?",
+                "he worked there",
+                [
+                    "he studied at the Cambridge University",
+                    "his family was there"
+                ]
+            ],
+            [
+                "Which city did he NOT live in, while he was in England?",
+                "Oxford",
+                [
+                    "London",
+                    "Cambridge"
+                ]
+            ]
+        ]
+    },
+    "Physical Education": {
+        "filename": "B2-Physical-Education.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "What is Monica's opinion about kids nowadays?",
+                "they spend more time on the computer",
+                [
+                    "they are more fit",
+                    "they spend more time getting fit"
+                ]
+            ],
+            [
+                "Where is Monica from?",
+                "New Zealand",
+                [
+                    "the USA",
+                    "not stated"
+                ]
+            ],
+            [
+                "What is the situation with P.E. classes in Monica's country?",
+                "P.E. classes and health classes are considered important",
+                [
+                    "health classes are more important than P.E. classes",
+                    "P.E. classes are more important than health classes"
+                ]
+            ],
+            [
+                "What is the Prime Minister's opinion about having more P.E. classes?",
+                "he thinks that more attention should be paid to activities outside of school",
+                [
+                    "he thinks that more attention should be paid to education",
+                    "he supports this idea"
+                ]
+            ]
+        ]
+    },
+    "Moving Out": {
+        "filename": "A2-Moving-out.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "What did the man not mention as one of his plans for Saturday?",
+                "teaching three classes",
+                [
+                    "working",
+                    "grading papers"
+                ]
+            ],
+            [
+                "What is Meg doing on Sunday?",
+                "she needs to get rid of the rubbish",
+                [
+                    "she needs to start paperwork at city hall",
+                    "she is moving to a new country"
+                ]
+            ],
+            [
+                "At what time does the dump close?",
+                "at 12:00",
+                [
+                    "at 15:00",
+                    "not mentioned"
+                ]
+            ],
+            [
+                "At what time will they meet on Sunday?",
+                "at 11:00",
+                [
+                    "at 14:00",
+                    "at 12:00"
+                ]
+            ]
+        ]
+    },
+    "Shopping": {
+        "filename": "B2-Shopping.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "When does the first speaker do his grocery shopping?",
+                "on Mondays or Tuesdays",
+                [
+                    "on Fridays",
+                    "on weekends"
+                ]
+            ],
+            [
+                "How often does the second speaker go shopping?",
+                "not mentioned",
+                [
+                    "once a year",
+                    "once a week"
+                ]
+            ],
+            [
+                "How does the third speaker describe himself from high school?",
+                "he was rich and could buy expensive clothes",
+                [
+                    "he was a better person than spoiled rich kids back then",
+                    "he couldn't afford the things he wanted"
+                ]
+            ],
+            [
+                "Why doesn't the second speaker like shopping?",
+                "he is tall and it's not easy for him to find clothes that fit",
+                [
+                    "he is short and it's not easy for him to find clothes that fit",
+                    "he is obese and most of the clothes does not fit him"
+                ]
+            ]
+        ]
+    },
+    "Sleeping Patterns": {
+        "filename": "B2-Sleeping-Patterns.mp3",
+        "level": 3,
+        "questions": [
+            [
+                "How many hours does Sarah usually sleep?",
+                "8 hours",
+                [
+                    "6 hours",
+                    "7 hours"
+                ]
+            ],
+            [
+                "How does Sarah wake up in the mornings?",
+                "she wakes up easily but still needs 2 alarm clocks",
+                [
+                    "she wakes up easily and does not need an alarm clock",
+                    "it is hard for her to wake up at a routine time but she does not use alarm clock"
+                ]
+            ],
+            [
+                "Sarah sleeps during the daytime. Is this true?",
+                "false",
+                [
+                    "true",
+                    "not stated"
+                ]
+            ],
+            [
+                "What does the man say about his sleeping habits?",
+                "he can only sleep when it's dark",
+                [
+                    "he can't sleep when it's too dark in the room",
+                    "he always wakes up late"
+                ]
+            ]
+        ]
+    },
+    "Hot and Cold Christmas": {
+        "filename": "B1-Hot-and-Cold-Christmas.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "In which country are the speakers living now?",
+                "Japan",
+                [
+                    "England",
+                    "Australia"
+                ]
+            ],
+            [
+                "When is Christmas celebrated in Australia?",
+                "in summer",
+                [
+                    "in winter",
+                    "not stated"
+                ]
+            ],
+            [
+                "What surprises both speakers about Christmas in Japan?",
+                "in Japan, people eat fried chicken for Christmas",
+                [
+                    "in Japan, people do not celebrate Christmas",
+                    "in Japan, people eat a lot of fruits for Christmas"
+                ]
+            ],
+            [
+                "How do people in Australia spend Christmas?",
+                "they go swimming and do barbecue",
+                [
+                    "they play cricket but never go to the beach",
+                    "they prefer doing barbecue rather than going to the beach"
+                ]
+            ]
+        ]
+    },
+    "Happiness": {
+        "filename": "A2-Happiness.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "Bhutan is ...",
+                "A country",
+                [
+                    "A small town in Nepal",
+                    "A city that has beautiful beaches"
+                ]
+            ],
+            [
+                "What is the most important thing for Bhutan's government?",
+                "The happiness of its people",
+                [
+                    "Fighting wars",
+                    "How much money people make"
+                ]
+            ],
+            [
+                "What did the speaker notice on the train?",
+                "That nobody looked happy",
+                [
+                    "That everyone was happy",
+                    "That people like reading happy stories on the train"
+                ]
+            ],
+            [
+                "How does the speaker describe happiness?",
+                "Reading a book on a beach",
+                [
+                    "Government making people happy",
+                    "Studying for a year"
+                ]
+            ]
+        ]
+    },
+    "Global warming": {
+        "filename": "B1 - global warming.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "What does the speaker say about global warming?",
+                "It is the biggest problem in the world",
+                [
+                    "It is the long-term heating of Earth's atmosphere",
+                    "It is the main problem for China, Russia and India"
+                ]
+            ],
+            [
+                "What's the biggest mistake that the country leaders make about global warming?",
+                "They only argue with each other",
+                [
+                    "They ignore the problem",
+                    "They pollute the environment"
+                ]
+            ],
+            [
+                "What is the solution to global warming according to many presidents and prime ministers?",
+                "Future technology",
+                [
+                    "Saving energy and switching off lights",
+                    "Search for other planets suitable for humans"
+                ]
+            ],
+            [
+                "What is the speaker doing to protect the environment?",
+                "Saving energy and recycling",
+                [
+                    "Planting trees and sorting trash",
+                    "Giving money to charities which help the environment"
+                ]
+            ]
+        ]
+    },
+    "Job duties": {
+        "filename": "B1 - job duties.mp3",
+        "level": 2,
+        "questions": [
+            [
+                "Which organization did Sarah teach for?",
+                "The State Department",
+                [
+                    "The Store Department",
+                    "The History Department"
+                ]
+            ],
+            [
+                "Where did Sarah teach?",
+                "Mexico",
+                [
+                    "New Mexico",
+                    "Washington"
+                ]
+            ],
+            [
+                "Was Sarah allowed to teach whatever she wanted?",
+                "No",
+                [
+                    "Yes",
+                    "She does not mention it"
+                ]
+            ],
+            [
+                "The State Department let Sarah wear anything ______.",
+                "that is professional",
+                [
+                    "but jeans",
+                    "she wanted"
+                ]
+            ]
+        ]
+    },
+    "First impressions": {
+        "filename": "A2-First-impressions.mp3",
+        "level": 1,
+        "questions": [
+            [
+                "It is said that first impressions __________:",
+                "count",
+                [
+                    "don't count",
+                    "are superficial"
+                ]
+            ],
+            [
+                "The speaker claims that he can judge someone's character from the first time that:",
+                "he sets his eyes on them",
+                [
+                    "he sits to talk with them",
+                    "he shakes hands with them"
+                ]
+            ],
+            [
+                "What was NOT mentioned as being especially important for the first impressions?",
+                "being on time",
+                [
+                    "looking happy",
+                    "being well-dressed"
+                ]
+            ],
+            [
+                "According, to the speaker, in which situation do first impressions play an important role?",
+                "meeting your future in-laws",
+                [
+                    "meeting your business partners",
+                    "giving an interview for a newspaper"
+                ]
+            ]
+        ]
+    }
+}

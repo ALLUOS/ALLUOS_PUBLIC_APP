@@ -1,0 +1,14 @@
+{
+    "Feedback correct group iteration": [
+        "Okay everyone had their turn, let's check your results ...\nGood job everyone. You've earned yourselves a new piece of the codeword.",
+        "Okay everyone had their turn, let's check your results ...\nGreat job. A piece of the code has been transmitted from Harriet."
+    ],
+    "Feedback incorrect group iteration": [
+        "Okay everyone had their turn, let's check your results ...\nHarriet could not verify you being humans. She did not send a piece of the codeword.",
+        "Okay everyone had their turn, let's check your results ...\nOh no, the aliens managed to intercept our communication with earth. No code piece this time."
+    ],
+    "Codeword recap": [
+        "The codeword you now have is {}.",
+        "Earth has transmitted the following codeword so far: {}."
+    ]
+}

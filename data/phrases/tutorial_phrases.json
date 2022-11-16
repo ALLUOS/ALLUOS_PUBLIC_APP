@@ -1,0 +1,13 @@
+{
+    "poll question": "@{} What do you want to know?",
+    "escapeling tutorial": [
+        "To begin a new adventure, just type /start . \n\nThe bot will start sending you messages to introduce you to the game. Please read the text and try to understand it. \n\nWhen some options appear, choose one of them. \nYou will receive a video: please watch it all. \n\nAfter this introduction, you can decide to join a group or create a group. Click on the button of your choice. \n\nUse the codes to join or create an escape mission. You can play with a minimum of 3 people and a maximum of 4. \nThe escape mission is now listed in your recent chats. Go to that chat, wait for every participant, and then type /start .",
+        "!IMAGE:escapeling_tutorial.png",
+        "Now your escape can start! \n\nIf you have any more questions, you can always use the /faq command."],
+    "mission tutorial": [
+        "Inside the mission, you interact with \na) the other users; \nb) the characters and the spaceship. \nThe characters are Harriet and Elias (if you need a reminder, rewatch the video: you can always find it in your private chat with the bot) \n\nYou and the other users work together on some English practice tasks. If you do them well, you can escape! \n\nThere are three possible tasks to choose from. Please refer to the /faq page for details on each one of them. ",
+        "!IMAGE:mission_tutorial.jpeg",
+        "At the end of each task, if you did well, you will receive a code. \nOne of you will need to type it, so you can escape the room and move onto another one. \n\nComplete all the tasks and type all the codes to escape the spaceship! "
+    ],
+    "no question": "Okay, have fun playing! :smiling_face_with_smiling_eyes: \nIf you have any more questions, you can also use the /faq command."
+}

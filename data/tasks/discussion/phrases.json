@@ -1,0 +1,24 @@
+{
+    "Task instruction": "<b>Discussion!</b>\nIn this task you will be shown a text, which you should read and discuss as a group. You have 30 seconds to read the text. Afterwards, you will be asked three questions about the text. You have 3 minutes to discuss each question. \nThere is no right or wrong answer in this task. But make sure everybody takes part in the discussion and pay attention to writing correct sentences! \nHave fun debating!",
+    "Word presentation": [
+        "@{}, please explain the word on your keyboard to the group.",
+        "All right @{}, explain the word to the group."
+    ],
+    "Next word information": [
+        "Next word.",
+        "Okay lets continue with the next word."
+    ],
+    "Correct guess": [
+        "Well done! Your guess is correct.",
+        "That's right!",
+        "Great, that's the word I was looking for!",
+        "Congrats, that was totally right!"
+    ],    
+    "Timelimit info": [
+        "Remaining time: {} seconds.",
+        "{} seconds left."
+    ], 
+    "Timelimit reached": [
+        "No more time left! You can finish your thought but then we will continue with the next question."
+    ]     
+}

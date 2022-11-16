@@ -1,0 +1,57 @@
+{
+    "Task instruction": "<b>Sentence Correction!</b>\nHarriet sends you English sentences with some errors. Your group has to correct them to prove that you are humans. If your group is right, you will be given a single letter of the password in each round. \nSo, correct the given sentences and collect letters for the password!",
+    "Sentence presentation": [
+        "Find out if the following sentence is correct: {}",
+        "Mark this sentence as correct or incorrect: {}"
+    ],
+    "Try again message": [
+        "{} \n Now try to correct the word again."
+    ],
+    "First sentence information": [
+        "All right. Let's start with the first sentence.",
+        "Let's get started with the first sentence."
+    ],
+    "Next sentence information": [
+        "Let's go on with the next sentence.",
+        "Okay lets continue with the next sentence."
+    ],
+    "Error identification": [
+        "Okay @{}, please select the mistake in the sentence.",
+        "@{}, find the mistake in the sentence."
+    ],
+    "Error correction": [
+        "Please try to correct the mistake, {}.",
+        "Suggest a correct replacement for the mistake please, {}."
+    ],
+    "User selection": [
+        "@{}, it's your turn.",
+        "Your turn to answer, @{}.",
+        "You're up, @{}"
+    ],
+    "Feedback correct response": [
+        "Well done! Your answer is correct.",
+        "That's right!",
+        "Great, that's correct!",
+        "Congrats, that was totally right!"
+    ],
+    "Feedback no error": [
+        "That's not correct. The sentence did not contain any errors.",
+        "That's not right. The sentence was actually correct."
+    ],
+    "Feedback missed error": [
+        "That's not correct. The sentence does contain a mistake.",
+        "That's not right. There is a mistake in the sentence."
+    ],
+    "Feedback incorrect error identification": [
+        "That's not correct. The erroneous word was: {}.",
+        "That's not right. The mistake was: {}."
+    ],
+    "Feedback incorrect": [
+        "That's not correct.",
+        "That's not right."
+    ],
+    "Feedback error correction": [
+        "One solution could've been: {}.",
+        "A possible correction would be: {}."
+    ]  
+}
