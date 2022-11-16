@@ -1,3 +1,29 @@
+### Information about Licensing:
+This Project uses the GPL-3.0 License
+
+### Used external Materials:
+In the listening task we use audio materials by the following creators. They might fall under different licensing, therefore we do not upload them and you have to download them on the creators page:
+ - www.listenaminute.com
+ - www.elllo.org 
+ - www.esl-lounge.com
+Add these files in /data/audio/
+If you are unsure which files to add, checkout /data/tasks/listening/topics.json
+
+The Vocabulary Guessing Task involves data from the following source:
+*Chujo, K., Oghigian, K. and Akasegawa, S. “A corpus and grammatical browsing system for remedial EFL learners,” In A. Leńko-Szymańska and A. Boulton (eds.), Multiple Affordances of Language Corpora for Data-driven Learning. Amsterdam: John Benjamins, 2015, 109-128.*
+which can be found at [www.score-corpus](https://www.score-corpus.org/en/)
+
+The data for the sentence correction was extracted from [Cambridgeenglish.org](https://www.cambridgeenglish.org/) 
+
+The data from the discussion task came from these [sources](https://docs.google.com/spreadsheets/d/1KUcZjonfur634mxBIwzeS82leIVBgmHkNo6XWFHeiIg/edit#gid=0).
+
+For other used materials checkout our documentation, where we have listed all used sources in the area where they are used.
+
+
+
+
+
+
 ### Code for 'Adaptive Language Learning' Study Project @UOS
 
 ![Escapling Bot](doc/img/Bot.png)
