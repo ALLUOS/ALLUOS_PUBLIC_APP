@@ -138,3 +138,43 @@ FYI: Due to the complexity of the GEC feature in the discussion task, when runni
 ---
 
 Icons made by <a href="https://www.flaticon.com/free-icon/bot_2235048" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+
+
+# Thanks for your Contribution
+This project was only possible due to the work of:
+Lucas Feldman  
+Kai Dönnebrink  
+Tom Hatton  
+Vedant Shah  
+Luis Mienhardt  
+Viktoriia Schechko  
+Ivan Polivanov  
+Maksim Urazov  
+Freya Thießen  
+Maral Sheikhzadeh Beigdarvish  
+Hannah Keyser  
+Joana Heil  
+Eunyoung Hwang  
+Christian Johnson  
+Emma Zanoli  
+Cedric Bitschene  
+Elena Korovina  
+Esther Chevalier  
+Frederik Wollatz  
+Jannik Schmitt  
+Karina Khokhlova  
+Kristina Sigetova  
+Liling Wu  
+Malte Heyen  
+Paribartan Humagain  
+Polina Shamraeva  
+Polina Tsvilodub  
+Tobias Oberbeck  
+Vera Klütz  
+I. H-W. (Did not wished to be named) 
+Janosch Bajorath  
+Eliasz Ganning  
+Hanna Linder  
+Sing Yuen
+ 
