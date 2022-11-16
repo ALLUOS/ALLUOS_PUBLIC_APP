@@ -83,7 +83,8 @@ class Listening(Task):
             print(
                 "The audio-files of this task do not seem to be in this path: ./data/audio/listening_task/")
             print(
-                "download them from: https://drive.google.com/drive/folders/1khMdHilTfUGsD_hvYioayLX67nB0KTqi")
+                "download them fromwww.listenaminute.com,   www.elllo.org , www.esl-lounge.com")
+            print("if you are unsure which files you need, checkout /data/tasks/listening/topics.json")
 
     # getter and setter for basically everything.
 
